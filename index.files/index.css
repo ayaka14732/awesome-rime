@@ -4,7 +4,7 @@
 
 body {
 	background-color: #222;
-	color: #eee;
+	color: #ddd;
 	font-family: sans-serif;
 	margin: 0 auto;
 	max-width: 1000px;
@@ -13,4 +13,31 @@ body {
 
 h1 {
 	text-align: center;
+}
+
+div.float {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100vh;
+	width: 100vw;
+	z-index: 1;
+	background-color: rgba(64,64,64,0.75);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	visibility: hidden;
+}
+
+div.float > div {
+	background-color: #222;
+	border: 1px solid #ddd;
+	border-radius: 0.75rem;
+	color: #ddd;
+	max-width: 700px;
+	padding: 0.5em 1em;
+}
+
+div.float > div > p.icon {
+	text-align: right;
 }

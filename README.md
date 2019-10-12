@@ -23,6 +23,7 @@ Each record is in the following format:
 
 ```json
 {
+  "name": "訓読み",
   "repository": "sgalal/rime-kunyomi",
   "license_url": "/LICENSE",
   "config": {
@@ -39,6 +40,7 @@ Each record is in the following format:
 
 ```json
 {
+  "name": "訓読み",
   "repository": "sgalal/rime-kunyomi",
   "license": {
     "spdx_id": "GPL-3.0",
@@ -78,6 +80,7 @@ Use `sgalal/rime-kunyomi` as a example:
 
 `sha`: **GET** <https://api.github.com/repos/sgalal/rime-kunyomi/commits/master>, `/sha`
 
+* `/name`: `/name`
 * `/repository`: `/repository`
 * `/license/spdx_id`: **GET** <https://api.github.com/repos/sgalal/rime-kunyomi>, `/license/spdx_id`
 * `/license/url`: `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}{license_url}`

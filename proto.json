@@ -1,9 +1,12 @@
-{
-  "repository": "sgalal/rime-kunyomi",
-  "license_url": "/LICENSE",
-  "config": {
-    "schema_url": [ "/kunyomi.schema.yaml" ],
-    "dict_url": [ "/kunyomi.dict.yaml" ],
-    "opencc_config_url": [ "/opencc/t2jp.json", "/opencc/JPVariants.txt" ]
+[
+  {
+    "name": "訓読み",
+    "repository": "sgalal/rime-kunyomi",
+    "license_url": "/LICENSE",
+    "config": {
+      "schema_url": [ "/kunyomi.schema.yaml" ],
+      "dict_url": [ "/kunyomi.dict.yaml" ],
+      "opencc_config_url": [ "/opencc/t2jp.json", "/opencc/JPVariants.txt" ]
+    }
   }
-}
+]
