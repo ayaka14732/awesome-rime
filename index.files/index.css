@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #222;
+	color: #eee;
+	font-family: sans-serif;
+	margin: 0 auto;
+	max-width: 1000px;
+	padding: 2em 1em;
+}
+
+h1 {
+	text-align: center;
+}
