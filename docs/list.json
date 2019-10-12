@@ -20,11 +20,7 @@
         }
       ],
       "dict": [
-        {
-          "name": "kunyomi",
-          "url": "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml",
-          "version": "20181009 V1.0.04"
-        }
+        "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml"
       ],
       "opencc_config": [
         "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/t2jp.json",

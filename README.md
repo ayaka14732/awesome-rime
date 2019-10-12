@@ -60,11 +60,7 @@ Each record is in the following format:
       }
     ],
     "dict": [
-      {
-        "name": "kunyomi",
-        "url": "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml",
-        "version": "20181009 V1.0.04"
-      }
+      "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml"
     ],
     "opencc_config": [
       "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/t2jp.json",
@@ -85,5 +81,5 @@ Use `sgalal/rime-kunyomi` as a example:
 * `/license/spdx_id`: **GET** <https://api.github.com/repos/sgalal/rime-kunyomi>, `/license/spdx_id`
 * `/license/url`: `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}{license_url}`
 * `/config/schema`: for each schema, **GET** `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}{schema_url}`, then get the defined fields
-* `/config/dict`: for each dictionary, **GET** `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}{dict_url}`, then get the defined fields
+* `/config/dict`: for each dictionary, prefix the path with `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}`
 * `/config/opencc_config`: for each OpenCC configuration file, prefix the path with `https://raw.githubusercontent.com/sgalal/rime-kunyomi/{sha}`
