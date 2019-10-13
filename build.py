@@ -19,8 +19,8 @@ def getYAML(url):
 
 d = []
 
-with open('proto.json') as fproto:
-    xs = json.load(fproto)
+with open('proto.yaml') as fproto:
+    xs = yaml.safe_load(fproto)
     for x in xs:
         sha = getJSON('https://api.github.com/repos/' + x['repository'] + '/commits/master')['sha']
         repo = getJSON('https://api.github.com/repos/' + x['repository'])

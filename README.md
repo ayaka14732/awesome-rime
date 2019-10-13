@@ -6,8 +6,8 @@ Risi (pronounced raisai) is a schema index for Rime.
 
 The Risi infrastructure consists of 3 parts:
 
-1. a manually maintained schema list in JSON format
-1. a script that adding necessary attributes to each schema record in the JSON file
+1. a manually maintained schema list in YAML format
+1. a script that converts the YAML file to JSON format, while adding necessary attributes to each schema record
 1. the resulting schema list in JSON format
 1. A web interface that displays the JSON file
 
@@ -21,17 +21,18 @@ Risi users access the schema list via (4) the web interface, while developers ar
 
 Each record is in the following format:
 
-```json
-{
-  "name": "訓読み",
-  "repository": "sgalal/rime-kunyomi",
-  "license_url": "/LICENSE",
-  "config": {
-    "schema_url": [ "/kunyomi.schema.yaml" ],
-    "dict_url": [ "/kunyomi.dict.yaml" ],
-    "opencc_config_url": [ "/opencc/t2jp.json", "/opencc/JPVariants.txt" ]
-  }
-}
+```yaml
+- name: 訓読み
+  repository: sgalal/rime-kunyomi
+  license_url: 
+  config:
+    schema_url:
+    - "/kunyomi.schema.yaml"
+    dict_url:
+    - "/kunyomi.dict.yaml"
+    opencc_config_url:
+    - "/opencc/t2jp.json"
+    - "/opencc/JPVariants.txt"
 ```
 
 ### The (3) Automatically Generated Schema List
