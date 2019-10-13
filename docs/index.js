@@ -4,6 +4,11 @@ function HTMLEncode(str) {
 	return span.innerHTML;
 }
 
+function getFileName(str) {
+	const xs = str.split('/');
+	return xs[xs.length - 1];
+}
+
 var table = new Tabulator('#schemaTable', {
 	height: 205,
 	ajaxURL: 'list.json',
@@ -46,18 +51,23 @@ var table = new Tabulator('#schemaTable', {
 		floatDiv.style.visibility = 'visible';
 		const configs = row.getData().config;
 		const res = [];
-		res.push('<h2>Schema Files</h2>')
+
+		res.push('<ul>');
+
 		configs.schema.map(config => {
-			res.push(`<p><a href="${HTMLEncode(config.url)}">${HTMLEncode(config.name)} (${HTMLEncode(config.schema_id)})</a> ${HTMLEncode(config.description)}</p>`);
+			res.push(`<li><a href="${HTMLEncode(config.url)}">${HTMLEncode(config.name)} (${HTMLEncode(config.schema_id)})</a> ${HTMLEncode(config.description)}</li>`);
 		});
-		res.push('<h2>Dictionary Files</h2>')
+
 		configs.dict.map(config => {
-			res.push(`<p><a href="${HTMLEncode(config.url)}">${HTMLEncode(config.name)}</a></p>`);
+			res.push(`<li><a href="${HTMLEncode(config)}">${HTMLEncode(getFileName(config))}</a></li>`);
 		});
-		res.push('<h2>OpenCC Configuration Files</h2>')
+
 		configs.opencc_config.map(config => {
-			res.push(`<p><a href="${HTMLEncode(config)}">File</a></p>`);
+			res.push(`<li><a href="${HTMLEncode(config)}">${HTMLEncode(getFileName(config))}</a></li>`);
 		});
+
+		res.push('</ul>');
+
 		detailTable.innerHTML = res.join('');
 	},
 });
