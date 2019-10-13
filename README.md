@@ -22,8 +22,7 @@ Risi users access the schema list via (4) the web interface, while developers ar
 Each record is in the following format:
 
 ```yaml
-- name: 訓読み
-  repository: sgalal/rime-kunyomi
+- repository: sgalal/rime-kunyomi
   license_url: /LICENSE
   config:
     schema_url:

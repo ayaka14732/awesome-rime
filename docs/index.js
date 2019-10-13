@@ -31,7 +31,7 @@ ul.appendChild(title);
 		const row = document.createElement('li');
 		// Name
 		let span = document.createElement('span');
-		span.innerText = schema.name;
+		span.innerHTML = '<ul>' + [...new Set(schema.config.schema.map(x => x.name))].map(x => '<li>' + HTMLEncode(x) + '</li>').join('') + '</ul>';
 		row.appendChild(span);
 		// Repository
 		span = document.createElement('span');
@@ -43,11 +43,11 @@ ul.appendChild(title);
 		row.appendChild(span);
 		// Author
 		span = document.createElement('span');
-		span.innerHTML = '<ul>' + [...new Set(schema.config.schema.map(x => x.author))].map(x => '<li>' + HTMLEncode(x) + '</li>') + '</ul>';
+		span.innerHTML = '<ul>' + [...new Set(schema.config.schema.map(x => x.author).flat())].map(x => '<li>' + HTMLEncode(x) + '</li>').join('') + '</ul>';
 		row.appendChild(span);
 		// Description
 		span = document.createElement('span');
-		span.innerText = schema.config.schema.length != 1 ? 'See details' : schema.config.schema[0].description;
+		span.innerHTML = '<ul>' + [...new Set(schema.config.schema.map(x => x.description))].map(x => '<li>' + HTMLEncode(x) + '</li>').join('') + '</ul>';
 		row.appendChild(span);
 		// Files
 		span = document.createElement('span');

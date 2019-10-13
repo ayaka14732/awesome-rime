@@ -34,12 +34,11 @@ with open('proto.yaml') as fproto:
                 , 'schema_id': schema['schema_id']
                 , 'version': schema['version']
                 , 'author': schema['author']
-                , 'description': schema['description']
+                , 'description': schema.get('description')
                 }
 
         d.append( \
-            { 'name': x['name']
-            , 'repository': x['repository']
+            { 'repository': x['repository']
             , 'license': None if not repo['license'] else
                 { 'spdx_id': None if not repo.get('license') else repo['license']['spdx_id']
                 , 'url': None if not repo.get('license_url') else 'https://raw.githubusercontent.com/' + x['repository'] + '/' + sha + x['license_url']

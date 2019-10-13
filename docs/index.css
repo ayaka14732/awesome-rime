@@ -20,6 +20,11 @@ h1 {
 	text-align: center;
 }
 
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
 #filterInput {
 	background-color: #222;
 	border: 1px solid white;
