@@ -1,3 +1,8 @@
+function filterFunction() {
+	schemaTable.querySelectorAll('#schemaTable > li:not(:first-child)').forEach(row => row.style.display =
+		(row.searchText.indexOf(filterInput.value.toUpperCase()) == -1) ? "none" : "");
+}
+
 function HTMLEncode(str) {
 	const span = document.createElement('span');
 	span.innerText = str;
@@ -9,66 +14,67 @@ function getFileName(str) {
 	return xs[xs.length - 1];
 }
 
-var table = new Tabulator('#schemaTable', {
-	height: 205,
-	ajaxURL: 'list.json',
-	layout: "fitColumns",
-	columns:
-		[ { title: "Name"
-			, field: "name"
-			, headerFilter: true
-			}
-		, {	title: "Repository"
-			, field: "repository"
-			, headerFilter: true
-			, formatter: "link"
-			, formatterParams:
-				{ labelField: "repository"
-				, urlPrefix: "https://github.com/"
-				}
-			}
-		, { title: "License"
-			, field: "license"
-			, headerFilter: true
-			, formatter: "link"
-			, formatterParams:
-				{ label: cell => cell.getValue().spdx_id
-				, url: cell => cell.getValue().url
-				}
-			}
-		, { title: "Description"
-			, field: "config"
-			, headerFilter: true
-			, formatter: function (cell, formatterParams, onRendered) {
-					if (cell.getValue().schema.length == 1)
-						return cell.getValue().schema[0].description;
-					else
-						return 'See details';
-				}
-			}
-		],
-	rowClick: function(e, row) {
-		floatDiv.style.visibility = 'visible';
-		const configs = row.getData().config;
+const ul = document.createElement('ul');
+ul.setAttribute('id', 'schemaTable');
+const title = document.createElement('li');
+['Name', 'Repository', 'License', 'Author', 'Description', 'Files'].map(x => {
+	const span = document.createElement('span');
+	span.innerText = x;
+	title.appendChild(span);
+})
+ul.appendChild(title);
+
+(async () => {
+	const response = await fetch('list.json');
+	const schemata = await response.json();
+	schemata.map(schema => {
+		const row = document.createElement('li');
+		// Name
+		let span = document.createElement('span');
+		span.innerText = schema.name;
+		row.appendChild(span);
+		// Repository
+		span = document.createElement('span');
+		span.innerHTML = `<a href="https://github.com/${escape(schema.repository)}">${HTMLEncode(schema.repository)}</a>`;
+		row.appendChild(span);
+		// License
+		span = document.createElement('span');
+		span.innerHTML = !schema.license ? 'Not specified' : `<a href="${escape(schema.license.url)}">${HTMLEncode(schema.license.spdx_id)}</a>`;
+		row.appendChild(span);
+		// Author
+		span = document.createElement('span');
+		span.innerHTML = '<ul>' + [...new Set(schema.config.schema.map(x => x.author))].map(x => '<li>' + HTMLEncode(x) + '</li>') + '</ul>';
+		row.appendChild(span);
+		// Description
+		span = document.createElement('span');
+		span.innerText = schema.config.schema.length != 1 ? 'See details' : schema.config.schema[0].description;
+		row.appendChild(span);
+		// Files
+		span = document.createElement('span');
 		const res = [];
-
 		res.push('<ul>');
-
+		const configs = schema.config;
 		configs.schema.map(config => {
-			res.push(`<li><a href="${HTMLEncode(config.url)}">${HTMLEncode(config.name)} (${HTMLEncode(config.schema_id)})</a> ${HTMLEncode(config.description)}</li>`);
+			res.push(`<li><a href="${HTMLEncode(config.url)}">${HTMLEncode(getFileName(config.url))}</a></li>`);
 		});
-
 		configs.dict.map(config => {
 			res.push(`<li><a href="${HTMLEncode(config)}">${HTMLEncode(getFileName(config))}</a></li>`);
 		});
-
 		configs.opencc_config.map(config => {
 			res.push(`<li><a href="${HTMLEncode(config)}">${HTMLEncode(getFileName(config))}</a></li>`);
 		});
-
 		res.push('</ul>');
+		span.innerHTML = res.join('');
+		row.appendChild(span);
+		// Append
+		row.searchText =
+			( schema.name + ' '
+			+ schema.repository + ' '
+			+ (!schema.license ? '' : schema.license.spdx_id) + ' '
+			+ schema.config.schema.map(s => s.description).join(' ')
+			).toUpperCase();
+		ul.appendChild(row);
+	});
+})()
 
-		detailTable.innerHTML = res.join('');
-	},
-});
-
+document.body.appendChild(ul);
