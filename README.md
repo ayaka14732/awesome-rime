@@ -24,16 +24,18 @@ Each record is in the following format:
 ```yaml
 - name: 訓読み
   repository: sgalal/rime-kunyomi
-  license_url: 
+  license_url: /LICENSE
   config:
     schema_url:
-    - "/kunyomi.schema.yaml"
+    - /kunyomi.schema.yaml
     dict_url:
-    - "/kunyomi.dict.yaml"
+    - /kunyomi.dict.yaml
     opencc_config_url:
-    - "/opencc/t2jp.json"
-    - "/opencc/JPVariants.txt"
+    - /opencc/t2jp.json
+    - /opencc/JPVariants.txt
 ```
+
+`license_url` and `config/opencc_config_url` are nullable fields.
 
 ### The (3) Automatically Generated Schema List
 

@@ -47,7 +47,7 @@ with open('proto.yaml') as fproto:
             , 'config':
                 { 'schema': [get_schema(schema_url) for schema_url in x['config']['schema_url']]
                 , 'dict': ['https://raw.githubusercontent.com/' + x['repository'] + '/' + sha + dict_url for dict_url in x['config']['dict_url']]
-                , 'opencc_config': ['https://raw.githubusercontent.com/' + x['repository'] + '/' + sha + opencc_connfig_url for opencc_connfig_url in x['config']['opencc_config_url']]
+                , 'opencc_config': ['https://raw.githubusercontent.com/' + x['repository'] + '/' + sha + opencc_connfig_url for opencc_connfig_url in x['config'].get('opencc_config_url', ())]
                 }
             })
 
