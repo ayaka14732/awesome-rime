@@ -1,7 +1,6 @@
 - repository: biopolyhedron/rime-middle-chinese
   config:
     schema_url:
-      - /triungkoxsampheng.schema.yaml
       - /zyenpheng.schema.yaml
     dict_url:
       - /zyenpheng.dict.yaml
