@@ -1,17 +1,19 @@
-# Risi
+# RiSI
 
-Risi (pronounced raisai) is a schema index for Rime.
+RiSI (pronounced raisai) is a schema index for Rime.
+
+**Note: The RiSI project is currently in progress. The data format may be changed in future commits!**
 
 ## Design
 
-The Risi infrastructure consists of 3 parts:
+The RiSI infrastructure consists of 3 parts:
 
 1. a manually maintained schema list in YAML format
 1. a script that converts the YAML file to JSON format, while adding necessary attributes to each schema record
 1. the resulting schema list in JSON format
 1. A web interface that displays the JSON file
 
-Risi users access the schema list via (4) the web interface, while developers are able to do further processing with (3) the JSON file.
+RiSI users access the schema list via (4) the web interface, while developers are able to do further processing with (3) the JSON file.
 
 ## Data Format
 
