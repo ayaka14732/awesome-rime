@@ -1,1 +1,60 @@
-[{"repository": "sgalal/rime-kunyomi", "license": null, "config": {"schema": [{"name": "訓読み", "url": "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.schema.yaml", "schema_id": "kunyomi", "version": "20181007 V1.0.01", "author": ["其弦有余 <1727246457@qq.com>"], "description": "This is the kunyomi input method for rime.\nThis schema uses OpenCC to convert the characters to Japanese style. Please put JPVariants.txt and t2jp.json in the opencc folder in advance.\n"}], "dict": ["https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml"], "opencc_config": ["https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/t2jp.json", "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/JPVariants.txt"]}}, {"repository": "sgalal/rime-hanja", "license": null, "config": {"schema": [{"name": "ハングル", "url": "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hangeul.schema.yaml", "schema_id": "hangeul", "version": "20190224 V1.0.01", "author": ["chromezh <1727246457@qq.com>"], "description": null}, {"name": "韓語漢字音", "url": "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hanja.schema.yaml", "schema_id": "hanja", "version": "20190224 V1.0.02", "author": ["chromezh <1727246457@qq.com>"], "description": "Input schema for Korean Hanja. Depends on luna_pinyin for reverse lookup, and hangeul schema for input hangeul."}], "dict": ["https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hangeul.dict.yaml", "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hanja.dict.yaml"], "opencc_config": []}}]
+[
+    {
+        "repository": "sgalal/rime-kunyomi",
+        "license": null,
+        "config": {
+            "schema": [
+                {
+                    "name": "訓読み",
+                    "url": "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.schema.yaml",
+                    "schema_id": "kunyomi",
+                    "version": "20181007 V1.0.01",
+                    "author": [
+                        "其弦有余 <1727246457@qq.com>"
+                    ],
+                    "description": "This is the kunyomi input method for rime.\nThis schema uses OpenCC to convert the characters to Japanese style. Please put JPVariants.txt and t2jp.json in the opencc folder in advance.\n"
+                }
+            ],
+            "dict": [
+                "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/kunyomi.dict.yaml"
+            ],
+            "opencc_config": [
+                "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/t2jp.json",
+                "https://raw.githubusercontent.com/sgalal/rime-kunyomi/07199e2beca0a529489d15476a33b0d9cb3e745a/opencc/JPVariants.txt"
+            ]
+        }
+    },
+    {
+        "repository": "sgalal/rime-hanja",
+        "license": null,
+        "config": {
+            "schema": [
+                {
+                    "name": "ハングル",
+                    "url": "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hangeul.schema.yaml",
+                    "schema_id": "hangeul",
+                    "version": "20190224 V1.0.01",
+                    "author": [
+                        "chromezh <1727246457@qq.com>"
+                    ],
+                    "description": null
+                },
+                {
+                    "name": "韓語漢字音",
+                    "url": "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hanja.schema.yaml",
+                    "schema_id": "hanja",
+                    "version": "20190224 V1.0.02",
+                    "author": [
+                        "chromezh <1727246457@qq.com>"
+                    ],
+                    "description": "Input schema for Korean Hanja. Depends on luna_pinyin for reverse lookup, and hangeul schema for input hangeul."
+                }
+            ],
+            "dict": [
+                "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hangeul.dict.yaml",
+                "https://raw.githubusercontent.com/sgalal/rime-hanja/8c9b238c7aba46c034a0fdfaa7b19bfe51745da6/hanja.dict.yaml"
+            ],
+            "opencc_config": []
+        }
+    }
+]
