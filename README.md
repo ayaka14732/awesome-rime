@@ -1,4 +1,4 @@
-# awesome-rime
+# awesome-rime [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Rime 輸入方案列表
 
