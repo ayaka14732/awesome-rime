@@ -1,6 +1,6 @@
 # awesome-rime
 
-A curated list of rime schemata
+Rime 輸入方案列表
 
 ## 形碼
 
@@ -127,3 +127,7 @@ A curated list of rime schemata
 - **63** [rime/rime-emoji](https://github.com/rime/rime-emoji) - Emoji / 繪文字輸入方案
 - **19** [rime/rime-ipa](https://github.com/rime/rime-ipa) - IPA / 國際音標輸入方案
 - **0** [sgalal/rime-symbolic](https://github.com/sgalal/rime-symbolic) - Symbolic input for Rime | Rime 符號輸入
+
+## 參考
+
+- [中州韻輸入法漢語方言拼音方案全集](https://github.com/laubonghaudoi/Chinese_Rime)
