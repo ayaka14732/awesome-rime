@@ -59,6 +59,7 @@ Rime 輸入方案列表
     - **2** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) - 樂清話拼音輸入法
     - **1** [NGLI/rime-wugniu_soutseu](https://github.com/NGLI/rime-wugniu_soutseu) - 蘇州吳語拼音輸入方案
     - **0** [saeziae/rime_nguphing](https://github.com/saeziae/rime_nguphing) - 標準吳語 Standardized Wu Language Method for RIME
+    - **0** [saeziae/hangzhou_wu](https://github.com/saeziae/hangzhou_wu) - 杭州吳語
     - **0** [NGLI/rime-wugniu_kashin](https://github.com/NGLI/rime-wugniu_kashin) - 嘉興（五縣兩區）吳語拼音輸入方案
 - 徽語 Hui
 - 贛語 Gan
