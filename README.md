@@ -4,7 +4,7 @@
 
 ### 形碼・音形
 
-- **149** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+- **151** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 - **147** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
 - **121** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **54** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
@@ -16,12 +16,14 @@
 - **6** [rime/rime-cangjie](https://github.com/rime/rime-cangjie) - 【倉頡】輸入方案
 - **5** [X1aomu/rime-uggx](https://github.com/X1aomu/rime-uggx) - 一个用于 RIME 的郑码输入方案
 - **5** [momijineko/Rime-KappaJP](https://github.com/momijineko/Rime-KappaJP) - Rime河童日本語五筆入力
+- **4** [lotem/rime-wubi98](https://github.com/lotem/rime-wubi98) - 五筆98版 Rime 輸入方案
 - **3** [Joey-Li/Newcj_rime](https://github.com/Joey-Li/Newcj_rime) - 大新倉頡-小狼毫版
 - **3** [arpcn/rime-shanren3](https://github.com/arpcn/rime-shanren3) - 山人全息码
 - **3** [vfreex/rime-zhengma](https://github.com/vfreex/rime-zhengma) - Zhengma Support for RIME IME
+- **3** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6
 - **2** [alluLinger/xtlb-rime](https://github.com/alluLinger/xtlb-rime) - 小兔两笔 Rime 版本
 - **2** [philipposkhos/rime-ms-quick](https://github.com/philipposkhos/rime-ms-quick) - 傳統速成 ， rime 輸入法 (https://github.com/rime) 的微軟傳統排位速成方案
-- **2** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6
+- **1** [arzyu/rime-wubi98](https://github.com/arzyu/rime-wubi98) - Rime 五笔 98 输入方案，文章：https://arzx.org/posts/2019-12-27-rime-五笔-98-配置指南.html
 - **1** [chiahsien/RimeDayi](https://github.com/chiahsien/RimeDayi) - 給中州韻輸入法用的大易字碼表
 - **1** [lotem/rime-linguistic-wubi](https://github.com/lotem/rime-linguistic-wubi) - Rime 輸入方案：學界專供大字符集五筆字型輸入法
 - **1** [rime/rime-array](https://github.com/rime/rime-array) - 【行列】輸入方案
@@ -33,11 +35,11 @@
 ### 音碼
 
 - **120** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
-- **45** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
+- **46** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
 - **44** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) - 【袖珍簡化字拼音】輸入方案
 - **42** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) - 【地球拼音】輸入方案
 - **20** [rime/rime-bopomofo](https://github.com/rime/rime-bopomofo) - 注音輸入方案
-- **13** [zaqzrh/Tone-double_pinyin](https://github.com/zaqzrh/Tone-double_pinyin) - 帶聲調的雙拼方案
+- **14** [zaqzrh/Tone-double_pinyin](https://github.com/zaqzrh/Tone-double_pinyin) - 帶聲調的雙拼方案
 - **8** [jacob-us/lau_guoq_in](https://github.com/jacob-us/lau_guoq_in) - 一種老國音的輸入灋方案
 - **5** [rime/rime-combo-pinyin](https://github.com/rime/rime-combo-pinyin) - 【宮保拼音】輸入方案
 - **3** [Chingyat/rime-romatzyh](https://github.com/Chingyat/rime-romatzyh) - Rime 国语罗马字输入方案
@@ -104,7 +106,7 @@
     - **1** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
     - **1** [syndict/hakka](https://github.com/syndict/hakka) - 崇正客語輸入法
 - 粵語 Yue (Cantonese)
-    - **68** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
+    - **70** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
     - **2** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 沟漏片藤县白话输入方案
     - **2** [rime-aca/rime-zyujam](https://github.com/rime-aca/rime-zyujam) - 粵語注音
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
@@ -157,7 +159,7 @@
 
 ### 其他
 
-- **64** [rime/rime-emoji](https://github.com/rime/rime-emoji) - Emoji / 繪文字輸入方案
+- **65** [rime/rime-emoji](https://github.com/rime/rime-emoji) - Emoji / 繪文字輸入方案
 - **39** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) - Mewo-emoji for Rime 中州韻之貓顏文字
 - **0** [sgalal/rime-opencc-32bit-latest](https://github.com/sgalal/rime-opencc-32bit-latest) - Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)
 - **0** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
