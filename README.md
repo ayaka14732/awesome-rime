@@ -4,7 +4,7 @@
 
 ### 形碼・音形
 
-- **155** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+- **156** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 - **147** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
 - **121** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **54** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
@@ -36,7 +36,7 @@
 ### 音碼
 
 - **147** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) - RIME输入法 增强词库 适用于明月拼音和双拼
-- **120** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
+- **121** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
 - **46** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
 - **44** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) - 【袖珍簡化字拼音】輸入方案
 - **42** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) - 【地球拼音】輸入方案
@@ -109,7 +109,7 @@
     - **1** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
     - **1** [syndict/hakka](https://github.com/syndict/hakka) - 崇正客語輸入法
 - 粵語 Yue (Cantonese)
-    - **79** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
+    - **80** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
     - **2** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 沟漏片藤县白话输入方案
     - **2** [rime-aca/rime-zyujam](https://github.com/rime-aca/rime-zyujam) - 粵語注音
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
@@ -176,7 +176,7 @@
 
 方案集（由於未作拆分，此列表暫未收錄）：
 
-- **40** [rime-aca/schemata](https://github.com/rime-aca/schemata) - Rime用戶自定義方案集
+- **41** [rime-aca/schemata](https://github.com/rime-aca/schemata) - Rime用戶自定義方案集
 - **31** [lotem/rime-forge](https://github.com/lotem/rime-forge) - Rime data collection and scripts
 - **7** [xunux/hakka-dict](https://github.com/xunux/hakka-culture) - 收集客家語言用字、短語、諺語、歌謠和客家語言拼音。
 
