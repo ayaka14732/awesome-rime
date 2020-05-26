@@ -1,0 +1,23 @@
+name: Update stars
+on:
+  schedule:
+    - cron: '30 4 * * 3'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.1.1
+      - name: Build
+        run: |
+          sed -r -i 's/- \*\*[[:digit:]]+\*\* /- /g' README.md
+          wget -q https://github.com/sgalal/sort-awesome-lists/releases/download/v0.0.1/sort-awesome-lists
+          chmod +x sort-awesome-lists
+          ./sort-awesome-lists -t=${{ secrets.GITHUB_TOKEN }} -o=README.md.1 README.md
+          rm -f sort-awesome-lists README.md
+          mv README.md.1 README.md
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update stars"
+            git push origin master
+          fi
