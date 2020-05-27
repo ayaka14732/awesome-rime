@@ -1,7 +1,7 @@
 name: Update stars
 on:
   schedule:
-    - cron: '30 4 * * 3'
+    - cron: '30 5 * * 3'
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,6 +16,8 @@ jobs:
           ./sort-awesome-lists -t=${{ secrets.GITHUB_TOKEN }} -o=README.md.1 README.md
           rm -f sort-awesome-lists README.md
           mv README.md.1 README.md
+          git config --global user.email "32255369+chromezh@users.noreply.github.com"
+          git config --global user.name "sgalal"
           git add .
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update stars"
