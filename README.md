@@ -112,6 +112,7 @@
     - **80** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
     - **2** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 沟漏片藤县白话输入方案
     - **2** [rime-aca/rime-zyujam](https://github.com/rime-aca/rime-zyujam) - 粵語注音
+    - **2** [tanxpyox/rime-cantonese-bpmf](https://github.com/tanxpyox/rime-cantonese-bpmf) - 粵語注音輸入法
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
     - **1** [rime-aca/rime-jyutping-plus](https://github.com/rime-aca/rime-jyutping-plus) - 粵拼⁺
     - **0** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
@@ -168,20 +169,3 @@
 - **0** [sgalal/rime-opencc-32bit-latest](https://github.com/sgalal/rime-opencc-32bit-latest) - Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)
 - **0** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
 - **0** [sgalal/rime-symbolic](https://github.com/sgalal/rime-symbolic) - Symbolic input for Rime | Rime 符號輸入
-
-## 參考
-
-- [中州韻輸入法漢語方言拼音方案全集](https://github.com/laubonghaudoi/Chinese_Rime)
-- [開源 rime 碼表方案集](https://github.com/osfans/rime-tool)
-
-方案集（由於未作拆分，此列表暫未收錄）：
-
-- **41** [rime-aca/schemata](https://github.com/rime-aca/schemata) - Rime用戶自定義方案集
-- **31** [lotem/rime-forge](https://github.com/lotem/rime-forge) - Rime data collection and scripts
-- **7** [xunux/hakka-dict](https://github.com/xunux/hakka-culture) - 收集客家語言用字、短語、諺語、歌謠和客家語言拼音。
-
-## 教程
-
-- [`Schema.yaml` 詳解](https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md)
-- [trime.yaml詳解](https://github.com/osfans/trime/wiki/trime.yaml%E8%A9%B3%E8%A7%A3)
-- [Rime Academy](https://rime-aca.tumblr.com/)
