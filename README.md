@@ -73,6 +73,7 @@ rime 輸入方案列表
     - 蘭銀官話 Lan-Yin Mandarin
     - 江淮官話 Lower Yangtze Mandarin
         - **2** [uliloewi/lang2jin1](https://github.com/uliloewi/lang2jin1) - 南京話拼音输入法
+        - **0** [osfans/rime-taerv](https://github.com/osfans/rime-taerv) - 泰如拼音輸入法
     - 西南官話 Southwestern Mandarin
         - **5** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
         - **2** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
