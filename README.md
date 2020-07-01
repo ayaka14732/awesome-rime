@@ -4,9 +4,9 @@ rime 輸入方案列表
 
 ## 形碼・音形
 
-- **172** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+- **176** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 - **150** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
-- **128** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
+- **129** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **55** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
 - **19** [acevery/rime-zhengma](https://github.com/acevery/rime-zhengma) - Zhengma for Rime
 - **15** [GongMu/rime-zhengma](https://github.com/GongMu/rime-zhengma) - Rime郑码输入方案
@@ -38,15 +38,15 @@ rime 輸入方案列表
 - **158** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) - RIME输入法 增强词库 适用于明月拼音和双拼
 - **130** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
 - **46** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
-- **45** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) - 【袖珍簡化字拼音】輸入方案
+- **46** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) - 【袖珍簡化字拼音】輸入方案
 - **42** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) - 【地球拼音】輸入方案
 - **21** [rime/rime-bopomofo](https://github.com/rime/rime-bopomofo) - 注音輸入方案
 - **14** [zaqzrh/Tone-double_pinyin](https://github.com/zaqzrh/Tone-double_pinyin) - 帶聲調的雙拼方案
 - **8** [jacob-us/lau_guoq_in](https://github.com/jacob-us/lau_guoq_in) - 一種老國音的輸入灋方案
 - **6** [rime/rime-combo-pinyin](https://github.com/rime/rime-combo-pinyin) - 【宮保拼音】輸入方案
+- **4** [Chingyat/rime-romatzyh](https://github.com/Chingyat/rime-romatzyh) - Rime 国语罗马字输入方案
 - **4** [waveform/ziguang_shuangpin](https://github.com/waveform/ziguang_shuangpin) - 紫光双拼
-- **3** [Chingyat/rime-romatzyh](https://github.com/Chingyat/rime-romatzyh) - Rime 国语罗马字输入方案
-- **2** [arsenali/rime-triple-lishi](https://github.com/arsenali/rime-triple-lishi) - 李氏三拼方案，三码输入一个带调音节
+- **3** [arsenali/rime-triple-lishi](https://github.com/arsenali/rime-triple-lishi) - 李氏三拼方案，三码输入一个带调音节
 - **2** [elxy/meow_mspy](https://github.com/elxy/meow_mspy) - Rime 猫颜双拼输入方案，结合了微软双拼与猫老师 @\_ym 的猫颜文字词库的输入方案，同时支持英文输入与笔划反查。
 - **2** [rime/rime-stenotype](https://github.com/rime/rime-stenotype) - 【打字速記法】輸入方案
 - **1** [tsauibusato/xintalng_pinyin](https://github.com/tsauibusato/xintalng_pinyin) - 這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用
@@ -73,7 +73,7 @@ rime 輸入方案列表
         - **2** [uliloewi/lang2jin1](https://github.com/uliloewi/lang2jin1) - 南京話拼音输入法
         - **0** [osfans/rime-taerv](https://github.com/osfans/rime-taerv) - 泰如拼音輸入法
     - 西南官話 Southwestern Mandarin
-        - **5** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
+        - **6** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
         - **2** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
 - 晉語 Jin
 - 吳語 Wu
@@ -109,12 +109,12 @@ rime 輸入方案列表
     - **1** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
     - **1** [syndict/hakka](https://github.com/syndict/hakka) - 崇正客語輸入法
 - 粵語 Yue (Cantonese)
-    - **97** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
+    - **98** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
     - **3** [tanxpyox/rime-cantonese-schemes-editor](https://github.com/tanxpyox/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
+    - **2** [William8915/Jyutsoeng](https://github.com/William8915/Jyutsoeng) - 粵雙
     - **2** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 沟漏片藤县白话输入方案
     - **2** [tanxpyox/rime-cantonese-bpmf](https://github.com/tanxpyox/rime-cantonese-bpmf) - 粵語注音輸入法
     - **2** [tanxpyox/rime-cantonese-schemes](https://github.com/tanxpyox/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
-    - **2** [William8915/Jyutsoeng](https://github.com/William8915/Jyutsoeng) - 粵雙
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
     - **1** [rime-aca/rime-jyutping-plus](https://github.com/rime-aca/rime-jyutping-plus) - 粵拼⁺
     - **1** [tanxpyox/rime-combo-jyutping](https://github.com/tanxpyox/rime-combo-jyutping) - 宮保粵拼：Rime 並擊輸入粵語方案
@@ -129,14 +129,14 @@ rime 輸入方案列表
 ## 非漢語/非漢字
 
 - **25** [m13253/rime-nihongo-romaji](https://github.com/m13253/rime-nihongo-romaji) - Rime IME Japanese romaji input engine schema
+- **23** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 - **22** [biopolyhedron/rime-jap-poly](https://github.com/biopolyhedron/rime-jap-poly) - poly日文
-- **21** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 - **21** [rime/rime-ipa](https://github.com/rime/rime-ipa) - IPA / 國際音標輸入方案
 - **16** [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) - 日语输入法 Input method for typing Japanese with RIME
 - **10** [biopolyhedron/rime-latin-international](https://github.com/biopolyhedron/rime-latin-international) - Rime 拉丁字母混合輸入
 - **9** [nushu-script/rime-unicode_nushu](https://github.com/nushu-script/rime-unicode_nushu) - Unicode Nushu Input Method | Unicode 𛆁𛈬𛈬𛇈𛊡 | Unicode 女书输入法
 - **9** [sgalal/rime-kunyomi](https://github.com/sgalal/rime-kunyomi) - Input Chinese words by Japanese Kunyomi with Rime | Rimeとともに中国語単語を日本語訓読みで入力
-- **5** [arsenali/rime-esperanto](https://github.com/arsenali/rime-esperanto) - 世界语输入法
+- **6** [arsenali/rime-esperanto](https://github.com/arsenali/rime-esperanto) - 世界语输入法
 - **4** [biopolyhedron/rime-uyghur](https://github.com/biopolyhedron/rime-uyghur) - Rime 維吾爾語
 - **3** [biopolyhedron/rime-hieroglyph-mdc](https://github.com/biopolyhedron/rime-hieroglyph-mdc) - 埃及象形文字聖書體MdC轉寫
 - **2** [biopolyhedron/rime-arabic](https://github.com/biopolyhedron/rime-arabic) - rime阿拉伯字母國際鍵盤
