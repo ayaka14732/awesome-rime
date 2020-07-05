@@ -60,7 +60,6 @@ rime 輸入方案列表
     - **1** [rime-aca/rime-nieh-ched](https://github.com/rime-aca/rime-nieh-ched) - 爾切羅馬字
     - **0** [inzoi/inzoi.github.io](https://github.com/inzoi/inzoi.github.io) - 中古四拼
     - **0** [rime-aca/rime-dangrvond](https://github.com/rime-aca/rime-dangrvond) - 唐韻（中古漢語）拼音方案
-    - **0** [sgalal/rime-unt](https://github.com/sgalal/rime-unt) - rime unt 切韵朗读音输入方案
 - 官話 Mandarin
     - 中原官話 Central Plains Mandarin
         - **11** [lotem/rime-zhung](https://github.com/lotem/rime-zhung) - 中原官話輸入方案
