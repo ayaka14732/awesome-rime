@@ -111,11 +111,11 @@ rime 輸入方案列表
     - **0** [huangjunxin/Rime-Hakka-TaibuShang](https://github.com/huangjunxin/Rime-Hakka-TaibuShang) - Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案
 - 粵語 Yue (Cantonese)
     - **108** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
-    - **3** [tanxpyox/rime-cantonese-schemes-editor](https://github.com/tanxpyox/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
-    - **2** [William8915/Jyutsoeng](https://github.com/William8915/Jyutsoeng) - 粵雙
+    - **3** [WoCCLID/rime-cantonese-schemes-editor](https://github.com/WoCCLID/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
+    - **2** [WoCCLID/Jyutsoeng](https://github.com/WoCCLID/Jyutsoeng) - 粵雙
     - **2** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 沟漏片藤县白话输入方案
-    - **2** [tanxpyox/rime-cantonese-bpmf](https://github.com/tanxpyox/rime-cantonese-bpmf) - 粵語注音輸入法
-    - **2** [tanxpyox/rime-cantonese-schemes](https://github.com/tanxpyox/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
+    - **2** [WoCCLID/rime-cantonese-bpmf](https://github.com/WoCCLID/rime-cantonese-bpmf) - 粵語注音輸入法
+    - **2** [WoCCLID/rime-cantonese-schemes](https://github.com/WoCCLID/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
     - **1** [tanxpyox/rime-combo-jyutping](https://github.com/tanxpyox/rime-combo-jyutping) - 宮保粵拼：Rime 並擊輸入粵語方案
     - **0** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
