@@ -174,6 +174,7 @@ rime 輸入方案列表
 - **0** [biopolyhedron/rime-syriac](https://github.com/biopolyhedron/rime-syriac) - 敘利亞字母鍵盤
 - **0** [gkovacs/rime-korean](https://github.com/gkovacs/rime-korean) - 韩语输入法 RIME IME schema for typing Korean Hangul and Hanja
 - **0** [laubonghaudoi/rime-ugaritic](https://github.com/laubonghaudoi/rime-ugaritic) - Ugaritic Cuneiform input schema for Rime
+- **0** [einverne/rime-hangul](https://github.com/einverne/rime-hangul) - 韩语 2set 输入法，韩语形码
 
 ## 其他
 
