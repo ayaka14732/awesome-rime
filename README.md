@@ -126,7 +126,7 @@ rime 輸入方案列表
     - **0** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
     - **0** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
     - **0** [leimaau/old-Cantonese](https://github.com/leimaau/old-Cantonese) - Rime Old Cantonese Input Scheme | 《分韻撮要》音系及輸入方案
-    - **0** [redchenjs/rime-jyutgaan]https://github.com/redchenjs/rime-jyutgaan) - Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案
+    - **0** [redchenjs/rime-jyutgaan](https://github.com/redchenjs/rime-jyutgaan) - Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案
 - 北部平話 Northern Ping
 - 南部平話 Southern Ping
     - **0** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
