@@ -33,6 +33,7 @@ rime 輸入方案列表
 - **0** [rime/rime-quick](https://github.com/rime/rime-quick) - 【速成】輸入方案
 - **0** [runapp/rime-wubi98char](https://github.com/runapp/rime-wubi98char) - 小狼毫（rime） 五笔98单字方案 源于海峰五笔码表
 - **0** [szc126/rime-liangfen](https://github.com/szc126/rime-liangfen) - unapproved fork of LiangFen by Sim CheonHyeong
+- **0** [yangzhaoyunfei/rime-xfsm](https://github.com/yangzhaoyunfei/rime-xfsm) - 【西风瘦码】 Rime輸入方案
 
 ## 音碼
 
