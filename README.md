@@ -42,9 +42,16 @@ rime 輸入方案列表
 - **1** [szc126/rime-liangfen](https://github.com/szc126/rime-liangfen) - unapproved fork of LiangFen by Sim CheonHyeong
 - **1** [yangzhaoyunfei/rime-xfsm](https://github.com/yangzhaoyunfei/rime-xfsm) - 【西风瘦码】 Rime輸入方案
 - **1**[voidrinz/092r](https://github.com/voidrinz/092r) - 09五笔第二代（Rinz自用版）
+- **1**[Schummacher/XHSJ](https://github.com/Schummacher/XHSJ) - 小鹤四角，参考了小鹤音形的音码、四角号码的形码、星空键道的顶功
+- **0** [byujiang/wubi06_rime](https://github.com/byujiang/wubi06_rime) - Rime新世纪五笔10余个词库及新世纪五笔拼音方案和简入繁出
 - **0** [hchunhui/rime-wubi86go](https://github.com/hchunhui/rime-wubi86go) - 谷歌五笔86版 rime版
 - **0** [lotem/rime-guhuwubi](https://github.com/lotem/rime-guhuwubi) - 孤狐五筆 Rime 輸入方案
 - **0** [PokeGuys/rime-simplex](https://github.com/PokeGuys/rime-simplex) - Windows版速成输入方案，码表源自Yahoo奇摩输入法
+- **0** [https://github.com/bruceasu/胡言乱语hyly](https://github.com/bruceasu/my-sp-table/tree/068f2c1f9994cdcae40292fc48f65fdb9159435c/rime) - 小鹤双拼+自然快手辅助码表
+- **0** [chengen12/rime-bingchanquanxi](https://github.com/chengen12/rime-bingchanquanxi) - 冰蟾全息码
+- **0** [osfans/rime-tool/data/xy](https://github.com/osfans/rime-tool/tree/8e8e7d83361941cf7449441575fa99543d3bc87d/data/xy) - 简版听雨两笔、极速听雨两笔
+- **0** [osfans/rime-tool/data/yx](https://github.com/osfans/rime-tool/tree/8e8e7d83361941cf7449441575fa99543d3bc87d/data/yx) - 超强两笔、超强音形(26键)、小兮单字
+- **0** [kktt007/settings](https://github.com/kktt007/settings/tree/4fb1d6b0ff926044e0f6e13c1bd50c692555b03f/rime-data) - 新型形码编码蓝宝石版
 
 ## 音碼
 
@@ -80,6 +87,8 @@ rime 輸入方案列表
 - **0** [baopaau/rime-rola-pinyin](https://github.com/baopaau/rime-rola-pinyin) - Rime 輸入方案 不用數字或符號表示聲調，類似國語羅馬字
 - **0** [baopaau/rime-tungdzih](https://github.com/baopaau/rime-tungdzih) - Rime 趙元任通字羅馬字輸入方案
 - **0** [baopaau/rime-yale-mandarin](https://github.com/baopaau/rime-yale-mandarin) - 國語耶魯拼音／Yale romanization of Mandarin
+- **0** [osfans/rime-tool/data/y](https://github.com/osfans/rime-tool/tree/8e8e7d83361941cf7449441575fa99543d3bc87d/data/y) - 臺灣注音:注音倉頡輸入法
+- **0** [hhliow/mandarin](https://github.com/hhliow/mandarin/tree/ae31efdda1c77fe3f84b9c64bf7f44d53967a8ce/hhliow/ime) - 韻白拼音、韻白拼音手機式、註音符號qwerty
 
 ## 漢語方言
 
@@ -226,3 +235,5 @@ rime 輸入方案列表
 - **2** [slbtty/rime_latex](https://github.com/shenlebantongying/rime_latex) - LaTex mathematical symbols schema | Latex 符號輸入
 - **1** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
 - **0** [sgalal/rime-opencc-32bit-latest](https://github.com/sgalal/rime-opencc-32bit-latest) - Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)
+- **0** [osfans/rime-tool/data/z](https://github.com/osfans/rime-tool/tree/8e8e7d83361941cf7449441575fa99543d3bc87d/data/z) - 中国大陆标准电码、中国大陆标准电码（单字盲打）
+- **0**[amorphobia/xmoji](https://github.com/amorphobia/xmoji) - 可挂载于小鹤音形之下的 Emoji 输入方案
