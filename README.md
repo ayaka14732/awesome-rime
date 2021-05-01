@@ -7,6 +7,7 @@ rime 輸入方案列表
 - **316** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
 - **173** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
 - **156** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
+- **82** [SivanLaai/rime_pure: rime配置](https://github.com/SivanLaai/rime_pure) - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
 - **63** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
 - **27** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
 - **20** [acevery/rime-zhengma](https://github.com/acevery/rime-zhengma) - Zhengma for Rime
@@ -43,12 +44,12 @@ rime 輸入方案列表
 - **1** [yangzhaoyunfei/rime-xfsm](https://github.com/yangzhaoyunfei/rime-xfsm) - 【西风瘦码】 Rime輸入方案
 - **1** [voidrinz/092r](https://github.com/voidrinz/092r) - 09五笔第二代（Rinz自用版）
 - **1** [Schummacher/XHSJ](https://github.com/Schummacher/XHSJ) - 小鹤四角，参考了小鹤音形的音码、四角号码的形码、星空键道的顶功
+- **0** [cmal/rime-conf](https://github.com/cmal/rime-conf) 小兮码1.0 xxm
 - **0** [byujiang/wubi06_rime](https://github.com/byujiang/wubi06_rime) - Rime新世纪五笔10余个词库及新世纪五笔拼音方案和简入繁出
 - **0** [hchunhui/rime-wubi86go](https://github.com/hchunhui/rime-wubi86go) - 谷歌五笔86版 rime版
 - **0** [lotem/rime-guhuwubi](https://github.com/lotem/rime-guhuwubi) - 孤狐五筆 Rime 輸入方案
 - **0** [PokeGuys/rime-simplex](https://github.com/PokeGuys/rime-simplex) - Windows版速成输入方案，码表源自Yahoo奇摩输入法
 - **0** [chengen12/rime-bingchanquanxi](https://github.com/chengen12/rime-bingchanquanxi) - 冰蟾全息码
-
 
 ## 音碼
 
@@ -158,6 +159,7 @@ rime 輸入方案列表
     - **2** [CanCLID/rime-cantonese-bpmf](https://github.com/CanCLID/rime-cantonese-bpmf) - 粵語注音輸入法
     - **2** [Chingyat/rime-yutlo](https://github.com/Chingyat/rime-yutlo) - Rime 粵語羅馬字輸入方案
     - **2** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
+    - **1** [jyutcitzi/jyutcitzi-RIME](https://github.com/jyutcitzi/jyutcitzi-RIME) - 粵切字 (夫干·天·版)+粵切字 (禾旡·比·版) RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese
     - **1** [leimaau/old-Cantonese](https://github.com/leimaau/old-Cantonese) - Rime Old Cantonese Input Scheme | 《分韻撮要》音系及輸入方案
     - **1** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
     - **1** [tanxpyox/rime-combo-jyutping](https://github.com/tanxpyox/rime-combo-jyutping) - 宮保粵拼：Rime 並擊輸入粵語方案
