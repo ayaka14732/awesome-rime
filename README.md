@@ -112,6 +112,7 @@ rime 輸入方案列表
     - 西南官話 Southwestern Mandarin
         - **9** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
         - **3** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
+        - **1** [shinzoqchiuq/rime-yunciu](https://github.com/shinzoqchiuq/rime-yunciu) - 永州官話輸入方案
 - 晉語 Jin
     - **2** [iaoiezaon/rime-jieny](https://github.com/iaoiezaon/rime-jieny) - 嘉樂泉話
 - 吳語 Wu
