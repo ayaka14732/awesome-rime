@@ -241,7 +241,7 @@ rime 輸入方案列表
 - **8** [puddinging/rime-cli](https://github.com/puddinging/rime-cli) - 关于小狼毫输入法的一个小工具
 - **2** [sgalal/rime-symbolic](https://github.com/sgalal/rime-symbolic) - Symbolic input for Rime | Rime 符號輸入
 - **2** [sgalal/rime-symbolic-simp](https://github.com/sgalal/rime-symbolic-simp) - Symbolic input for rime (Simplified Chinese version) | rime 符號輸入（简化字版）
-- **2** [slbtty/rime_latex](https://github.com/shenlebantongying/rime_latex) - LaTex mathematical symbols schema | Latex 符號輸入
+- **2** [slbtty/rime_latex](https://github.com/shenlebantongying/rime_latex) - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 - **1** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
 - **0** [amorphobia/xmoji](https://github.com/amorphobia/xmoji) - 可挂载于小鹤音形之下的 Emoji 输入方案
 - **0** [sgalal/rime-opencc-32bit-latest](https://github.com/sgalal/rime-opencc-32bit-latest) - Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)
