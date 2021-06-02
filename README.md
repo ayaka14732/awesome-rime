@@ -81,6 +81,7 @@ rime 輸入方案列表
 - **2** [gkovacs/rime-td-pinyin-flypy](https://github.com/gkovacs/rime-td-pinyin-flypy) - 小鹤双拼输入法（带声调） Input method for typing Chinese using Flypy Double Pinyin (Xiaohe Shuangpin) with Tones, for RIME
 - **1** [qpng/tyungrua](https://github.com/qpng/tyungrua) - 中華拼音輸入方案
 - **1** [tsauibusato/xintalng_pinyin](https://github.com/tsauibusato/xintalng_pinyin) - 這是關於漢語拼音和國語羅馬字結合體的一種RIME方案，整理自1985年《新唐》雜誌，需配合terra_pinyin.dict使用
+- **0** [zhanghaozhecn/Combo_Pinyin_Modification](https://github.com/zhanghaozhecn/Combo_Pinyin_Modification) - 宫保拼音方案的若干魔改版
 - **0** [baopaau/rime-gorlor](https://github.com/baopaau/rime-gorlor) - Rime 輸入方案 三拼國羅 Xanpin Gorlor 基於地球拼音碼表
 - **0** [baopaau/rime-guobiao-quick](https://github.com/baopaau/rime-guobiao-quick) - 国标三拼／双拼
 - **0** [baopaau/rime-iac-mps](https://github.com/baopaau/rime-iac-mps) - iac新國音
