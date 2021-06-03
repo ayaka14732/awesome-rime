@@ -30,6 +30,7 @@ rime 輸入方案列表
 - **5** [Drgiceake/xklbDR](https://github.com/Drgiceake/xklbDR) - 基于原版星空两笔和星空两笔右耍版制作的星空两笔单字版，使用根据网络聊天制定的字频
 - **4** [lanluoxiao/c42](https://github.com/lanluoxiao/c42) - 形音四二顶输入方案
 - **4** [vfreex/rime-zhengma](https://github.com/vfreex/rime-zhengma) - Zhengma Support for RIME IME
+- **3** [zhmars/rime-wubi-simp](https://github.com/zhmars/rime-wubi-simp) - Rime 五笔简体词库，据最新《通用规范汉字表》删除所有不在汉字表的字符
 - **3** [IT1187541749/Rime-data](https://github.com/IT1187541749/Rime-data) - 新世纪五笔字型资源库(新世纪五笔魔改版，包括新世纪五笔超集、含词、单字、拆分各版)
 - **3** [alluLinger/xtlb-rime](https://github.com/alluLinger/xtlb-rime) - 小兔两笔 Rime 版本
 - **3** [arzyu/rime-wubi98](https://github.com/arzyu/rime-wubi98) - Rime 五笔 98 输入方案，文章：https://arzx.org/posts/2019-12-27-rime-五笔-98-配置指南.html
