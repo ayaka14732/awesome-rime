@@ -236,6 +236,7 @@ rime 輸入方案列表
 - **0** [biopolyhedron/rime-syriac](https://github.com/biopolyhedron/rime-syriac) - 敘利亞字母鍵盤
 - **0** [gkovacs/rime-korean](https://github.com/gkovacs/rime-korean) - 韩语输入法 RIME IME schema for typing Korean Hangul and Hanja
 - **0** [laubonghaudoi/rime-ugaritic](https://github.com/laubonghaudoi/rime-ugaritic) - Ugaritic Cuneiform input schema for Rime
+- **0** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **0** [tumuyan/rime-pinyin-jap](https://github.com/tumuyan/rime-pinyin-jap) - 李さんの日本語入力方法：一個Rime日語方案，完全忽略音読訓読，使用漢語拼音录入日語漢字字形，使用羅馬音録入仮名。
 
 ## 其他
