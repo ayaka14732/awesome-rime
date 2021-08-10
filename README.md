@@ -54,6 +54,7 @@ rime 輸入方案列表
 - **0** [cmal/rime-conf](https://github.com/cmal/rime-conf) 小兮码1.0 xxm
 - **0** [lotem/rime-guhuwubi](https://github.com/lotem/rime-guhuwubi) - 孤狐五筆 Rime 輸入方案
 - **0** [whjiang/zzdyx_rime](https://github.com/whjiang/zzdyx_rime) - 哲哲豆音形RIME版
+- **0** [ywxt/rime-sunman](https://github.com/ywxt/rime-sunman) - 山人全息码
 - **0** [zeylei/ghcm](https://github.com/zeylei/ghcm) - 矧(shěn)码，又名神码
 
 ## 音碼
