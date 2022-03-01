@@ -244,6 +244,7 @@ rime 輸入方案列表
 - **0** [laubonghaudoi/rime-ugaritic](https://github.com/laubonghaudoi/rime-ugaritic) - Ugaritic Cuneiform input schema for Rime
 - **0** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **0** [sgqy/rime-russian](https://github.com/sgqy/rime-russian) - rime schema for romaji-russian conversion
+- **1** [saeziae/rime_tai](https://github.com/saeziae/rime_tai) - Tai Tham (Tai Khuen, Tai Lue, Lanna) input method.ᨴᩱᩭᨵᨾ᩠ᨾ᩼
 
 ## 其他
 
