@@ -54,6 +54,7 @@ rime 輸入方案列表
 - **1** [szc126/rime-liangfen](https://github.com/szc126/rime-liangfen) - unapproved fork of LiangFen by Sim CheonHyeong
 - **1** [whjiang/zzdyx_rime](https://github.com/whjiang/zzdyx_rime) - 哲哲豆音形RIME版
 - **1** [yangzhaoyunfei/rime-xfsm](https://github.com/yangzhaoyunfei/rime-xfsm) - 【西风瘦码】 Rime輸入方案
+- **1** [ywxt/rime-huma](https://github.com/ywxt/rime-huma) - 虎碼輸入方案
 - **0** [PokeGuys/rime-simplex](https://github.com/PokeGuys/rime-simplex) - Windows版速成输入方案，码表源自Yahoo奇摩输入法
 - **0** [chengen12/rime-bingchanquanxi](https://github.com/chengen12/rime-bingchanquanxi) - 冰蟾全息码
 - **0** [cmal/rime-conf](https://github.com/cmal/rime-conf) 小兮码1.0 xxm
