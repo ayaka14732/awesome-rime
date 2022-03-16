@@ -102,6 +102,7 @@ rime 輸入方案列表
 - 中古漢語 Middle Chinese
     - **17** [biopolyhedron/rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese) - 中古漢語（切韻音系）全拼及三拼
     - **2** [rime-aca/rime-nieh-ched](https://github.com/rime-aca/rime-nieh-ched) - 爾切羅馬字
+    - **1** [ayaka14732/rime-tshet](https://github.com/ayaka14732/rime-tshet) - rime 切韻拼音輸入方案
     - **1** [rime-aca/rime-dangrvond](https://github.com/rime-aca/rime-dangrvond) - 唐韻（中古漢語）拼音方案
     - **1** [rime-aca/rime-kmg](https://github.com/rime-aca/rime-kmg) - 廣韻段毄攴字灋
     - **0** [ayaka14732/rime-ayaka-2021](https://github.com/ayaka14732/rime-ayaka-2021) - rime 中古漢語拼音（綾香2021版）方案
