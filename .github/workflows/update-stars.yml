@@ -21,5 +21,5 @@ jobs:
           git add .
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update stars"
-            git push origin master
+            git push origin main
           fi
