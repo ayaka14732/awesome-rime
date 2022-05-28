@@ -40,7 +40,7 @@ rime 輸入方案列表
 - **4** [vfreex/rime-zhengma](https://github.com/vfreex/rime-zhengma) - Zhengma Support for RIME IME
 - **3** [Joey-Li/Newcj_rime](https://github.com/Joey-Li/Newcj_rime) - 大新倉頡-小狼毫版
 - **3** [alluLinger/xtlb-rime](https://github.com/alluLinger/xtlb-rime) - 小兔两笔 Rime 版本
-- **3** [pingshunhuangalex/rime-sphs](https://github.com/pingshunhuangalex/rime-sphs) - 键道·我流：基于Colemak-DH Matrix布局的音形码顶功输入方案，脱胎于星空键道
+- **3** [pingshunhuangalex/rime-keydo](https://github.com/pingshunhuangalex/rime-keydo) - 键道·我流：基于Colemak-DH Matrix布局的音形码顶功输入方案，脱胎于星空键道
 - **2** [dzyht/rime_xkyd](https://github.com/dzyht/rime_xkyd) - 星空一道：星空一笔的音+星空键道的形，名之为星空一道
 - **2** [hchunhui/rime-wubi86go](https://github.com/hchunhui/rime-wubi86go) - 谷歌五笔86版 rime版
 - **2** [rime/rime-quick](https://github.com/rime/rime-quick) - 【速成】輸入方案
