@@ -157,6 +157,7 @@ rime 輸入方案列表
     - **2** [LimTo/etaiBLG](https://github.com/LimTo/etaiBLG) - 閩南語拼音輸入方案
     - **2** [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮汕话輸入方案
     - **1** [yangwenbo99/rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj) - Type Hokkien (Taiwanese) Han-ji using POJ (Pe̍h-Ōe-Ji, Church Romanisation)
+    - **1** [tsunhua/rime-teochew-puj](https://github.com/tsunhua/rime-teochew-puj) - 潮州白話字輸入方案（Teochew PUJ, Pe̍h-Ūe-Ji）
 - 閩東語 Eastern Min
     - **20** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) - 平話字表 (閩東語‣福州話)
     - **6** [DDFShanyu/Huk-ciu-ua-Lo-ma-ci](https://github.com/DDFShanyu/Huk-ciu-ua-Lo-ma-ci) - 福州話羅馬字
