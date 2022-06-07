@@ -250,6 +250,7 @@ rime 輸入方案列表
 - **0** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **0** [saeziae/rime_tai](https://github.com/saeziae/rime_tai) - Tai Tham (Tai Khuen, Tai Lue, Lanna) input method.ᨴᩱᩭᨵᨾ᩠ᨾ᩼
 - **0** [sgqy/rime-russian](https://github.com/sgqy/rime-russian) - rime schema for romaji-russian conversion
+- **0** [kitty-panics/rime-klingon](https://github.com/kitty-panics/rime-klingon) - Rime 的 Klingon (克林贡语) 输入方案
 
 ## 其他
 
