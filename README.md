@@ -10,7 +10,7 @@ rime 輸入方案列表
 - **180** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **68** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
 - **49** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
-- **36** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6
+- **36** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6（详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd/）
 - **30** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) - 具备码元提示功能的98五笔配置文件
 - **25** [bigshans/rime-zrm](https://github.com/bigshans/rime-zrm) - 自然码+辅助码的 rime 配置方案
 - **24** [YQ-YSY/one-hand_Rime](https://github.com/YQ-YSY/one-hand_Rime) - 单手笔顺输入法（Rime版）Chinese stroke sequence (one hand) input method made with Rime
