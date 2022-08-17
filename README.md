@@ -4,14 +4,14 @@ rime 輸入方案列表
 
 ## 形碼・音形
 
-- **534** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
-- **366** [SivanLaai/rime_pure: rime配置](https://github.com/SivanLaai/rime_pure) - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
+- **537** [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法
+- **373** [SivanLaai/rime_pure: rime配置](https://github.com/SivanLaai/rime_pure) - 【rime小狼毫\trime同文：手机/PC一站式配置】九宫格双拼、四叶草九宫格拼音、四叶草拼音、小鹤双拼、极品五笔、QQ五笔、徐码、郑码
 - **217** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
 - **184** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **69** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
 - **52** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
 - **41** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6｜详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd
-- **33** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) - 具备码元提示功能的98五笔配置文件
+- **34** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) - 具备码元提示功能的98五笔配置文件
 - **27** [bigshans/rime-zrm](https://github.com/bigshans/rime-zrm) - 自然码+辅助码的 rime 配置方案
 - **24** [GongMu/rime-zhengma](https://github.com/GongMu/rime-zhengma) - Rime郑码输入方案
 - **24** [YQ-YSY/one-hand_Rime](https://github.com/YQ-YSY/one-hand_Rime) - 单手笔顺输入法（Rime版）Chinese stroke sequence (one hand) input method made with Rime
@@ -62,12 +62,12 @@ rime 輸入方案列表
 
 ## 音碼
 
-- **1355** [maomiui/rime](https://github.com/maomiui/rime) - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
-- **269** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
+- **1385** [maomiui/rime](https://github.com/maomiui/rime) - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
+- **270** [rime/rime-double-pinyin](https://github.com/rime/rime-double-pinyin) - 雙拼輸入方案
 - **225** [xiaoTaoist/rime-dict](https://github.com/xiaoTaoist/rime-dict) - RIME输入法 增强词库 适用于明月拼音和双拼
-- **126** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
+- **127** [rime/rime-luna-pinyin](https://github.com/rime/rime-luna-pinyin) - 【朙月拼音】輸入方案
 - **91** [rime/rime-terra-pinyin](https://github.com/rime/rime-terra-pinyin) - 【地球拼音】輸入方案
-- **88** [oniondelta/Onion_Rime_Files](https://github.com/oniondelta/Onion_Rime_Files) - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
+- **90** [oniondelta/Onion_Rime_Files](https://github.com/oniondelta/Onion_Rime_Files) - Rime 注音&拼音 "洋蔥" 方案（四個注音、一個拼音、兩個形碼）
 - **87** [rime/rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) - 【袖珍簡化字拼音】輸入方案
 - **74** [imper0502/rime-double-bopomo](https://github.com/imper0502/rime-double-bopomo) - Double bopomo(zhù-yīn), A Chinese Input Method for Taiwanese, zhù-yīn users.雙碼注音，給注音使用者的雙拼輸入法。不需要額外學習漢語拼音。
 - **54** [hosxy/rime-aurora-pinyin](https://github.com/hosxy/rime-aurora-pinyin) - 【极光拼音】输入方案
@@ -78,7 +78,7 @@ rime 輸入方案列表
 - **14** [jakwings/rime-xyz](https://github.com/jakwings/rime-xyz) - J.W的個人rime方案集，包括泥巴拼音（muddy-pinyin）、扩展拼音（pinyin-ext）、特殊字符（symbols）、化学离子式输入、平假名（hiragana）片假名（katakana）
 - **10** [jacob-us/lau_guoq_in](https://github.com/jacob-us/lau_guoq_in) - 一種老國音的輸入灋方案
 - **7** [Chingyat/rime-romatzyh](https://github.com/Chingyat/rime-romatzyh) - Rime 国语罗马字输入方案
-- **5** [arsenali/rime-triple-lishi](https://github.com/arsenali/rime-triple-lishi) - 李氏三拼方案，三码输入一个带调音节
+- **6** [arsenali/rime-triple-lishi](https://github.com/arsenali/rime-triple-lishi) - 李氏三拼方案，三码输入一个带调音节
 - **5** [ayaka14732/rime-putonghua](https://github.com/ayaka14732/rime-putonghua) - rime 有声调普通话拼音方案
 - **5** [waveform/ziguang_shuangpin](https://github.com/waveform/ziguang_shuangpin) - 紫光双拼
 - **3** [elxy/meow_mspy](https://github.com/elxy/meow_mspy) - Rime 猫颜双拼输入方案，结合了微软双拼与猫老师 @\_ym 的猫颜文字词库的输入方案，同时支持英文输入与笔划反查。
@@ -156,8 +156,8 @@ rime 輸入方案列表
     - **3** [unsioer/rime-lomaji](https://github.com/unsioer/rime-lomaji) - Rime閩南語羅馬字輸入方案
     - **2** [LimTo/etaiBLG](https://github.com/LimTo/etaiBLG) - 閩南語拼音輸入方案
     - **2** [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮汕话輸入方案
+    - **2** [tsunhua/rime-teochew](https://github.com/tsunhua/rime-teochew) - 潮州話輸入方案（Teochew 漢字 + PUJ, Pe̍h-Ūe-Ji）
     - **2** [yangwenbo99/rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj) - Type Hokkien (Taiwanese) Han-ji using POJ (Pe̍h-Ōe-Ji, Church Romanisation)
-    - **1** [tsunhua/rime-teochew](https://github.com/tsunhua/rime-teochew) - 潮州話輸入方案（Teochew 漢字 + PUJ, Pe̍h-Ūe-Ji）
 - 閩東語 Eastern Min
     - **20** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) - 平話字表 (閩東語‣福州話)
     - **6** [DDFShanyu/Huk-ciu-ua-Lo-ma-ci](https://github.com/DDFShanyu/Huk-ciu-ua-Lo-ma-ci) - 福州話羅馬字
@@ -169,9 +169,9 @@ rime 輸入方案列表
     - **0** [huangjunxin/Rime-Hakka-TaibuShang](https://github.com/huangjunxin/Rime-Hakka-TaibuShang) - Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案
     - **0** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
 - 粵語 Yue (Cantonese)
-    - **317** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
+    - **318** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
     - **12** [CanCLID/rime-cantonese-schemes](https://github.com/CanCLID/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
-    - **6** [MrCorn0-0/jyutsp](https://github.com/MrCorn0-0/jyutsp) - 基於rime的粵語雙拼方案
+    - **7** [MrCorn0-0/jyutsp](https://github.com/MrCorn0-0/jyutsp) - 基於rime的粵語雙拼方案
     - **6** [rime-double-jyutping-extra](https://github.com/gkovacs/rime-double-jyutping-extra) - 粤语双拼输入法 Input method for typing Chinese using Cantonese pronunciations with 2-3 keys per character, based on RIME
     - **6** [pearapple123/rime-hoisanva](https://github.com/pearapple123/rime-hoisanva) - 台山話拼系輸入法A RIME IME for Taishanese
     - **4** [CanCLID/rime-cantonese-schemes-editor](https://github.com/CanCLID/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
@@ -194,8 +194,8 @@ rime 輸入方案列表
 
 ## 非漢語/非漢字
 
-- **162** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
-- **110** [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) - 日语输入法 Input method for typing Japanese with RIME
+- **164** [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
+- **116** [gkovacs/rime-japanese](https://github.com/gkovacs/rime-japanese) - 日语输入法 Input method for typing Japanese with RIME
 - **39** [biopolyhedron/rime-jap-poly](https://github.com/biopolyhedron/rime-jap-poly) - poly日文
 - **38** [rime/rime-ipa](https://github.com/rime/rime-ipa) - IPA / 國際音標輸入方案
 - **29** [m13253/rime-nihongo-romaji](https://github.com/m13253/rime-nihongo-romaji) - Rime IME Japanese romaji input engine schema
@@ -257,7 +257,7 @@ rime 輸入方案列表
 - **187** [rime/rime-emoji](https://github.com/rime/rime-emoji) - Emoji / 繪文字輸入方案
 - **42** [rtransformation/rime-opencc_emoji_symbols](https://github.com/rtransformation/rime-opencc_emoji_symbols) - 利用OpenCC做的Emoji和特殊符号滤镜，供Rime输入法使用者使用
 - **41** [hitigon/meow-emoji-rime](https://github.com/hitigon/meow-emoji-rime) - Mewo-emoji for Rime 中州韻之貓顏文字
-- **19** [slbtty/rime_latex](https://github.com/shenlebantongying/rime_latex) - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
+- **20** [slbtty/rime_latex](https://github.com/shenlebantongying/rime_latex) - LaTeX Symbols (Complete) | 所有 LaTeX 符號的輸入方案
 - **9** [puddinging/rime-cli](https://github.com/puddinging/rime-cli) - 关于小狼毫输入法的一个小工具
 - **4** [amorphobia/xmoji](https://github.com/amorphobia/xmoji) - 可挂载于小鹤音形之下的 Emoji 输入方案
 - **4** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
