@@ -145,6 +145,7 @@ rime 輸入方案列表
 - 徽語 Hui
 - 贛語 Gan
 - 湘語 Xiang
+    - **0** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
 - 閩北語 Northern Min
 - 閩南語 Southern Min (Hokkien)
     - **82** [kahaani/dieghv](https://github.com/kahaani/dieghv) - 潮语拼音输入法
