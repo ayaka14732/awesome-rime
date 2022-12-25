@@ -10,6 +10,7 @@ rime 輸入方案列表
 - **194** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **69** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
 - **58** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
+- **58** [forFudan/xuma](https://github.com/forFudan/xuma) - Rime·徐码·2022新版·二重注解·增广常用字符集·附加forFudan人体工学调整版
 - **50** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6｜详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd
 - **37** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) - 具备码元提示功能的98五笔配置文件
 - **29** [bigshans/rime-zrm](https://github.com/bigshans/rime-zrm) - 自然码+辅助码的 rime 配置方案
