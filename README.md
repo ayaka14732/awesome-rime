@@ -243,6 +243,7 @@ rime 輸入方案和配置列表
 - **1** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **0** [AraragiHoozuki/Tamil-for-Rime](https://github.com/AraragiHoozuki/Tamil-for-Rime) - 基於Rime的泰米爾文輸入法碼表
 - **0** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) - rime-tibetan 藏文 Wylie 轉寫
+- **0** [ayaka14732/rime-ayaka-v8](https://github.com/ayaka14732/rime-ayaka-v8) - 綾香思考用語輸入方案 Ayaka’s Thinking Language Input Schema
 - **0** [baopaau/rime-korean](https://github.com/baopaau/rime-korean) - A Rime Korean schema (Romanized transliteration) with Hanja and extended Hangeul support
 - **0** [baopaau/rime-toongcuu](https://github.com/baopaau/rime-toongcuu) - Rime 「通古羅馬字」輸入方案
 - **0** [biopolyhedron/rime-burmese](https://github.com/biopolyhedron/rime-burmese) - Rime 緬甸文
