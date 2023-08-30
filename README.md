@@ -136,6 +136,7 @@ rime 輸入方案和配置列表
     - **16** [NGLI/rime-wugniu_soutseu](https://github.com/NGLI/rime-wugniu_soutseu) - 蘇州吳語拼音輸入方案
     - **15** [rime/rime-wugniu](https://github.com/rime/rime-wugniu) - 吳語·上海話
     - **10** [saeziae/rime_nguphing](https://github.com/saeziae/rime_nguphing) - 標準吳語
+    - **9** [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese) - 吳語-溫州話輸入方案
     - **7** [rime/rime-soutzoe](https://github.com/rime/rime-soutzoe) - 蘇州吳語
     - **7** [shinzoqchiuq/rime-shanghainese](https://github.com/shinzoqchiuq/rime-shanghainese) - 非吳拼上海話輸入方案
     - **2** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) - 寧波話輸入方案（變體方案）
