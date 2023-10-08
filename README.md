@@ -120,6 +120,7 @@ rime 輸入方案和配置列表
     - 蘭銀官話 Lan-Yin Mandarin
     - 江淮官話 Lower Yangtze Mandarin
         - **6** [uliloewi/lang2jin1](https://github.com/uliloewi/lang2jin1) - 南京話拼音输入法
+        - **1** [gaozhiyan/rime-nantong](https://github.com/gaozhiyan/rime-nantong) - 南通话拼音输入法
         - **1** [osfans/rime-taerv](https://github.com/osfans/rime-taerv) - 泰如拼音輸入法
         - **0** [Sonner114514/huaipin](https://github.com/Sonner114514/huaipin) - 淮拼
     - 西南官話 Southwestern Mandarin
