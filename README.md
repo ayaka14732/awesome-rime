@@ -275,4 +275,6 @@ rime 輸入方案和配置列表
 - **5** [sgalal/rime-opencc-latest](https://github.com/sgalal/rime-opencc-latest) - Customize rime input schemata to use the latest OpenCC dictionaries
 - **4** [sgalal/rime-symbolic](https://github.com/sgalal/rime-symbolic) - Symbolic input for Rime | Rime 符號輸入
 - **4** [sgalal/rime-symbolic-simp](https://github.com/sgalal/rime-symbolic-simp) - Symbolic input for rime (Simplified Chinese version) | rime 符號輸入（简化字版）
+- **4** [cgcel/rime_to_gboard](https://github.com/cgcel/rime_to_gboard) - 将 Rime userdb.txt 转换为 Gboard PersonalDictionary.zip 格式, 便于将词库导入 Gboard
 - **0** [sgalal/rime-opencc-32bit-latest](https://github.com/sgalal/rime-opencc-32bit-latest) - Customize rime input schemata to use the latest OpenCC dictionaries (32-bit)
+
