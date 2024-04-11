@@ -111,7 +111,8 @@ rime 輸入方案和配置列表
     - **1** [rime-aca/rime-dangrvond](https://github.com/rime-aca/rime-dangrvond) - 唐韻（中古漢語）拼音方案
     - **1** [rime-aca/rime-kmg](https://github.com/rime-aca/rime-kmg) - 廣韻段毄攴字灋
     - **0** [inzoi/inzoi.github.io](https://github.com/inzoi/inzoi.github.io) - 中古四拼
-    - **0** [shinzoqchiuq/rime-trjuwngkux](https://github.com/shinzoqchiuq/rime-trjuwngkux) - 中古漢語輸入方案（白一平轉寫）
+    - **0** [shinzoqchiuq/rime-trjuwngkux](https://github.com/shinzoqchiuq/rime-trjuwngkux) - 中古漢語輸入方案（白一平轉寫）    - 
+    - **0** [uliloewi/guang2tong1zhong1gu3](https://github.com/uliloewi/guang2tong1zhong1gu3) - 廣通中古拼音方案
 - 官話 Mandarin
     - 中原官話 Central Plains Mandarin
         - **15** [lotem/rime-zhung](https://github.com/lotem/rime-zhung) - 中原官話輸入方案
