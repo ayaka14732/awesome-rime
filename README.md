@@ -252,6 +252,7 @@ rime 輸入方案和配置列表
 - **1** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **1** [saeziae/rime-uyghur](https://github.com/saeziae/rime-uyghur) 維吾爾語字母鍵盤，通用突厥字母鍵位 Uyghur, Ortaq Türkçä Alfabet layout
 - **1** [saeziae/rime_tai](https://github.com/saeziae/rime_tai) - Tai Tham (Tai Khuen, Tai Lue, Lanna) input method.ᨴᩱᩭᨵᨾ᩠ᨾ᩼
+- **0** [a-pontifex/rime-avestan](https://github.com/a-pontifex/rime-avestan) - 中州韻阿維斯塔語輸入法
 - **0** [AraragiHoozuki/Tamil-for-Rime](https://github.com/AraragiHoozuki/Tamil-for-Rime) - 基於Rime的泰米爾文輸入法碼表
 - **0** [arpcn/rime-tibetan](https://github.com/arpcn/rime-tibetan) - rime-tibetan 藏文 Wylie 轉寫
 - **0** [baopaau/rime-korean](https://github.com/baopaau/rime-korean) - A Rime Korean schema (Romanized transliteration) with Hanja and extended Hangeul support
