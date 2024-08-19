@@ -195,6 +195,7 @@ rime 輸入方案和配置列表
     - **0** [CanCLID/rime-cantonese-alt-dict](https://github.com/CanCLID/rime-cantonese-alt-dict) - 粵語分歧拼音系統
     - **0** [baopaau/rime-jyuwtpinq](https://github.com/baopaau/rime-jyuwtpinq) - Rime 粵語輸入方案 通過韻母變寫表示聲調。基於 rime-cantonese 碼表
     - **0** [redchenjs/rime-jyutgaan](https://github.com/redchenjs/rime-jyutgaan) - Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案
+    - **0** [Lumen01/rime-jienggong-cantonese](https://github.com/Lumen01/rime-jienggong-cantonese) - RIME 阳江话拼音输入方案 | 粤方言-高阳片
 - 北部平話 Northern Ping
 - 南部平話 Southern Ping
     - **4** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
