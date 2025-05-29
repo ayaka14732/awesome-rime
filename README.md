@@ -62,6 +62,7 @@ rime 輸入方案和配置列表
 - **0** [cmal/rime-conf](https://github.com/cmal/rime-conf) 小兮码1.0 xxm
 - **0** [lanluoxiao/c42](https://github.com/lanluoxiao/c42) - 形音四二顶输入方案
 - **0** [saeziae/saeziae/rime-double-pinyin](https://github.com/saeziae/rime-double-pinyin) 雙拼兩分（智能ABC雙拼） double pinyin LiangFen 
+- **0** [hertz-hwang/Rime-tiger_code](https://github.com/hertz-hwang/Rime-tiger_code) - “胖虎”方案（虎码输入方案），做最胖的虎码。
 
 ## 音碼
 
