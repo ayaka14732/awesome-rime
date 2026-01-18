@@ -263,6 +263,7 @@ rime 輸入方案和配置列表
 - **0** [biopolyhedron/rime-syriac](https://github.com/biopolyhedron/rime-syriac) - 敘利亞字母鍵盤
 - **0** [laubonghaudoi/rime-ugaritic](https://github.com/laubonghaudoi/rime-ugaritic) - Ugaritic Cuneiform input schema for Rime
 - **0** [sgqy/rime-russian](https://github.com/sgqy/rime-russian) - rime schema for romaji-russian conversion
+- **0** [IGBY-Klek/rime-khathuri-straight](https://github.com/IGBY-Klek/rime-khathuri-straight) - 格鲁吉亚文直打方案  
 
 ## 配置
 
