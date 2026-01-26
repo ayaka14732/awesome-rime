@@ -248,6 +248,7 @@ rime 輸入方案和配置列表
 - **3** [mkpoli/rime-toki-pona-munjan](https://github.com/mkpoli/rime-toki-pona-munjan) - A Rime Schema for toki pona (言善) in sitelen munjan (書文言). Classical-Chinese style Toki Pona.
 - **3** [szc126/rime-slg-korean](https://github.com/szc126/rime-slg-korean) - Soolegi Korean Input (쓰레기 한국어 입력)
 - **3** [wu-shan/type-pinyin](https://github.com/wu-shan/type-pinyin) - A Rime scheme to type pīnyīn
+- **3** [lingrottin/tienyu_rus](https://github.com/lingrottin/tienyu_rus) - Tienyu's Russian input schema for Rime with windows-like multi-alphabet-to-one support
 - **2** [AraragiHoozuki/FLAIS-EX-for-Rime](https://github.com/AraragiHoozuki/FLAIS-EX-for-Rime) - Full Latin Alphabet Input Schema Extension for Rime 拓展拉丁字母輸入碼表
 - **2** [ayaka14732/rime-ayaka-v8](https://github.com/ayaka14732/rime-ayaka-v8) - 綾香思考用語輸入方案 Ayaka’s Thinking Language Input Schema
 - **2** [biopolyhedron/rime-hebrew](https://github.com/biopolyhedron/rime-hebrew) - Rime 希伯來語轉寫輸入
