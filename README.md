@@ -62,7 +62,7 @@ rime 輸入方案和配置列表
 - **0** [chengen12/rime-bingchanquanxi](https://github.com/chengen12/rime-bingchanquanxi) - 冰蟾全息码
 - **0** [cmal/rime-conf](https://github.com/cmal/rime-conf) 小兮码1.0 xxm
 - **0** [lanluoxiao/c42](https://github.com/lanluoxiao/c42) - 形音四二顶输入方案
-- **0** [saeziae/saeziae/rime-double-pinyin](https://github.com/saeziae/rime-double-pinyin) 雙拼兩分（智能ABC雙拼） double pinyin LiangFen 
+- **0** [saeziae/saeziae/rime-double-pinyin](https://github.com/saeziae/rime-double-pinyin) 雙拼兩分（智能ABC雙拼） double pinyin LiangFen
 
 ## 音碼
 
@@ -131,6 +131,8 @@ rime 輸入方案和配置列表
         - **22** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
         - **10** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
         - **3** [shinzoqchiuq/rime-yunciu](https://github.com/shinzoqchiuq/rime-yunciu) - 永州官話輸入方案
+    - 其他 Others
+        - **5** [baopaau/rime-bepemefeve](https://github.com/baopaau/rime-bepemefeve) - 老國音（舊式國音/Old National Pronunciation of Standard Mandarin）輸入法整合
 - 晉語 Jin
     - **4** [Hynuza/fengyo](https://github.com/Hynuza/fengyo) - 晋语汾阳话输入方案
     - **2** [iaoiezaon/rime-jieny](https://github.com/iaoiezaon/rime-jieny) - 嘉樂泉話
