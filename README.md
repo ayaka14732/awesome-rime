@@ -9,7 +9,7 @@ rime 輸入方案和配置列表
 - **321** [rime/rime-wubi](https://github.com/rime/rime-wubi) - 【五筆字型】輸入方案
 - **277** [brglng/rime-xhup](https://github.com/brglng/rime-xhup) - Rime 小鹤双拼音形输入方案
 - **173** [nlimpid/rime-hepy](https://github.com/nlimpid/rime-hepy) - 自用小鹤双拼rime配置
-- **126** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6｜详尽操作指南：https://pingshunhuangalex.gitbook.io/rime-xkjd
+- **126** [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6｜详尽操作指南：<https://pingshunhuangalex.gitbook.io/rime-xkjd>
 - **71** [Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma) - 徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置……
 - **65** [yanhuacuo/98wubi](https://github.com/yanhuacuo/98wubi) - 具备码元提示功能的98五笔配置文件
 - **64** [bigshans/rime-zrm](https://github.com/bigshans/rime-zrm) - 自然码+辅助码的 rime 配置方案
@@ -28,10 +28,10 @@ rime 輸入方案和配置列表
 - **17** [zeylei/ghcm](https://github.com/zeylei/ghcm) - 矧(shěn)码，又名神码
 - **16** [IT1187541749/Rime-data](https://github.com/IT1187541749/Rime-data) - 新世纪五笔字型资源库(新世纪五笔魔改版，包括新世纪五笔超集、含词、单字、拆分各版)
 - **15** [CanCLID/rime-loengfan](https://github.com/CanCLID/rime-loengfan) - Loengfan (粵語兩分) is the Cantonese version of the Liang Fen input method
-- **15** [philipposkhos/rime-ms-quick](https://github.com/philipposkhos/rime-ms-quick) - 傳統速成 ， rime 輸入法 (https://github.com/rime) 的微軟傳統排位速成方案
+- **15** [philipposkhos/rime-ms-quick](https://github.com/philipposkhos/rime-ms-quick) - 傳統速成 ， rime 輸入法 (<https://github.com/rime>) 的微軟傳統排位速成方案
 - **15** [zhmars/rime-wubi-simp](https://github.com/zhmars/rime-wubi-simp) - Rime 五笔简体词库，据最新《通用规范汉字表》删除所有不在汉字表的字符
 - **15** [zongxinbo/rime-zong](https://github.com/zongxinbo/rime-zong) - RIME 四种方案 (龙渊郑码、倉頡五代、四角号码和行列30)
-- **14** [arzyu/rime-wubi98](https://github.com/arzyu/rime-wubi98) - Rime 五笔 98 输入方案，文章：https://arzx.org/posts/2019-12-27-rime-五笔-98-配置指南.html
+- **14** [arzyu/rime-wubi98](https://github.com/arzyu/rime-wubi98) - Rime 五笔 98 输入方案，文章：<https://arzx.org/posts/2019-12-27-rime-五笔-98-配置指南.html>
 - **13** [X1aomu/rime-uggx](https://github.com/X1aomu/rime-uggx) - 一个用于 RIME 的郑码输入方案
 - **13** [ywxt/rime-sunman](https://github.com/ywxt/rime-sunman) - 山人全息码
 - **12** [liming2013/rime-flypy-xhup](https://github.com/liming2013/rime-flypy-xhup) - rime平台下的小鹤双拼（加形）配置方案
@@ -103,106 +103,106 @@ rime 輸入方案和配置列表
 ## 漢語方言
 
 - 上古漢語 Old Chinese
-    - **16** [Hulenkius/RIME_OC_collections](https://github.com/Hulenkius/RIME_OC_collections) - RIME 上古漢語輸入方案集
+  - **16** [Hulenkius/RIME_OC_collections](https://github.com/Hulenkius/RIME_OC_collections) - RIME 上古漢語輸入方案集
 - 中古漢語 Middle Chinese
-    - **49** [ayaka14732/rime-tupa](https://github.com/ayaka14732/rime-tupa) - rime 切韻拼音輸入方案
-    - **32** [biopolyhedron/rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese) - 中古漢語（切韻音系）全拼及三拼
-    - **5** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh) - rime 中古漢語拼音（古韻羅馬字版）方案
-    - **3** [rime-aca/rime-nieh-ched](https://github.com/rime-aca/rime-nieh-ched) - 爾切羅馬字
-    - **3** [shinzoqchiuq/rime-trjuwngkux](https://github.com/shinzoqchiuq/rime-trjuwngkux) - 中古漢語輸入方案（白一平轉寫）
-    - **1** [rime-aca/rime-dangrvond](https://github.com/rime-aca/rime-dangrvond) - 唐韻（中古漢語）拼音方案
-    - **1** [rime-aca/rime-kmg](https://github.com/rime-aca/rime-kmg) - 廣韻段毄攴字灋
-    - **0** [inzoi/inzoi.github.io](https://github.com/inzoi/inzoi.github.io) - 中古四拼
-    - **0** [uliloewi/guang2tong1zhong1gu3](https://github.com/uliloewi/guang2tong1zhong1gu3) - 廣通中古拼音方案
+  - **49** [ayaka14732/rime-tupa](https://github.com/ayaka14732/rime-tupa) - rime 切韻拼音輸入方案
+  - **32** [biopolyhedron/rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese) - 中古漢語（切韻音系）全拼及三拼
+  - **5** [nk2028/rime-kyonh](https://github.com/nk2028/rime-kyonh) - rime 中古漢語拼音（古韻羅馬字版）方案
+  - **3** [rime-aca/rime-nieh-ched](https://github.com/rime-aca/rime-nieh-ched) - 爾切羅馬字
+  - **3** [shinzoqchiuq/rime-trjuwngkux](https://github.com/shinzoqchiuq/rime-trjuwngkux) - 中古漢語輸入方案（白一平轉寫）
+  - **1** [rime-aca/rime-dangrvond](https://github.com/rime-aca/rime-dangrvond) - 唐韻（中古漢語）拼音方案
+  - **1** [rime-aca/rime-kmg](https://github.com/rime-aca/rime-kmg) - 廣韻段毄攴字灋
+  - **0** [inzoi/inzoi.github.io](https://github.com/inzoi/inzoi.github.io) - 中古四拼
+  - **0** [uliloewi/guang2tong1zhong1gu3](https://github.com/uliloewi/guang2tong1zhong1gu3) - 廣通中古拼音方案
 - 官話 Mandarin
-    - 中原官話 Central Plains Mandarin
-        - **23** [lotem/rime-zhung](https://github.com/lotem/rime-zhung) - 中原官話輸入方案
-        - **3** [Patricivs/lakyang](https://github.com/Patricivs/lakyang) - 中原官話洛陽方言
-        - **1** [tsauibusato/yihdjoouhuah](https://github.com/tsauibusato/yihdjoouhuah) - 棗莊話羅馬字輸入方案
-    - 膠遼官話 Jiaoliao Mandarin
-    - 冀魯官話 Jilu Mandarin
-    - 蘭銀官話 Lan-Yin Mandarin
-    - 江淮官話 Lower Yangtze Mandarin
-        - **7** [uliloewi/lang2jin1](https://github.com/uliloewi/lang2jin1) - 南京話拼音输入法
-        - **2** [gaozhiyan/rime-nantong](https://github.com/gaozhiyan/rime-nantong) - 南通话拼音输入法
-        - **2** [osfans/rime-taerv](https://github.com/osfans/rime-taerv) - 泰如拼音輸入法
-        - **1** [Sonner114514/huaipin](https://github.com/Sonner114514/huaipin) - 淮拼
-    - 西南官話 Southwestern Mandarin
-        - **21** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
-        - **10** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
-        - **3** [shinzoqchiuq/rime-yunciu](https://github.com/shinzoqchiuq/rime-yunciu) - 永州官話輸入方案
-    - 其他 Others
-        - **6** [baopaau/rime-bepemefeve](https://github.com/baopaau/rime-bepemefeve) - 老國音（舊式國音/Old National Pronunciation of Standard Mandarin）輸入法整合
+  - 中原官話 Central Plains Mandarin
+    - **23** [lotem/rime-zhung](https://github.com/lotem/rime-zhung) - 中原官話輸入方案
+    - **3** [Patricivs/lakyang](https://github.com/Patricivs/lakyang) - 中原官話洛陽方言
+    - **1** [tsauibusato/yihdjoouhuah](https://github.com/tsauibusato/yihdjoouhuah) - 棗莊話羅馬字輸入方案
+  - 膠遼官話 Jiaoliao Mandarin
+  - 冀魯官話 Jilu Mandarin
+  - 蘭銀官話 Lan-Yin Mandarin
+  - 江淮官話 Lower Yangtze Mandarin
+    - **7** [uliloewi/lang2jin1](https://github.com/uliloewi/lang2jin1) - 南京話拼音输入法
+    - **2** [gaozhiyan/rime-nantong](https://github.com/gaozhiyan/rime-nantong) - 南通话拼音输入法
+    - **2** [osfans/rime-taerv](https://github.com/osfans/rime-taerv) - 泰如拼音輸入法
+    - **1** [Sonner114514/huaipin](https://github.com/Sonner114514/huaipin) - 淮拼
+  - 西南官話 Southwestern Mandarin
+    - **21** [Papnas/shupin](https://github.com/Papnas/shupin) - 蜀拼
+    - **10** [yuxifongfei/hubehua](https://github.com/yuxifongfei/hubehua) - 咵一咵湖北话
+    - **3** [shinzoqchiuq/rime-yunciu](https://github.com/shinzoqchiuq/rime-yunciu) - 永州官話輸入方案
+  - 其他 Others
+    - **6** [baopaau/rime-bepemefeve](https://github.com/baopaau/rime-bepemefeve) - 老國音（舊式國音/Old National Pronunciation of Standard Mandarin）輸入法整合
 - 晉語 Jin
-    - **4** [Hynuza/fengyo](https://github.com/Hynuza/fengyo) - 晋语汾阳话输入方案
-    - **2** [iaoiezaon/rime-jieny](https://github.com/iaoiezaon/rime-jieny) - 嘉樂泉話
+  - **4** [Hynuza/fengyo](https://github.com/Hynuza/fengyo) - 晋语汾阳话输入方案
+  - **2** [iaoiezaon/rime-jieny](https://github.com/iaoiezaon/rime-jieny) - 嘉樂泉話
 - 吳語 Wu
-    - **47** [NGLI/rime-wugniu_gninpou](https://github.com/NGLI/rime-wugniu_gninpou) - 寧波吳語拼音輸入方案
-    - **45** [NGLI/rime-wugniu_zaonhe](https://github.com/NGLI/rime-wugniu_zaonhe) - 上海吳語拼音輸入方案
-    - **36** [edward-martyr/rime-yahwe_zaonhe](https://github.com/edward-martyr/rime-yahwe_zaonhe) - 吳語協會式上海話輸入法
-    - **29** [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese) - 吳語-溫州話輸入方案
-    - **24** [rime/rime-wugniu](https://github.com/rime/rime-wugniu) - 吳語·上海話
-    - **21** [NGLI/rime-wugniu_soutseu](https://github.com/NGLI/rime-wugniu_soutseu) - 蘇州吳語拼音輸入方案
-    - **20** [saeziae/rime_nguphing](https://github.com/saeziae/rime_nguphing) - 標準吳語 Standard Wu (Standard Shanghainese)
-    - **16** [shinzoqchiuq/rime-shanghainese](https://github.com/shinzoqchiuq/rime-shanghainese) - 非吳拼上海話輸入方案
-    - **8** [rime/rime-soutzoe](https://github.com/rime/rime-soutzoe) - 蘇州吳語
-    - **4** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) - 寧波話輸入方案（變體方案）
-    - **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) - 清末寧波話輸入方案
-    - **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
-    - **1** [NGLI/rime-wugniu_kashin](https://github.com/NGLI/rime-wugniu_kashin) - 嘉興（五縣兩區）吳語拼音輸入方案
-    - **1** [ionkaon/rime-gninpou-saonphin](https://github.com/ionkaon/rime-gninpou-saonphin) - 寧波話雙拼輸入方案
-    - **1** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) - 樂清話拼音輸入法
+  - **47** [NGLI/rime-wugniu_gninpou](https://github.com/NGLI/rime-wugniu_gninpou) - 寧波吳語拼音輸入方案
+  - **45** [NGLI/rime-wugniu_zaonhe](https://github.com/NGLI/rime-wugniu_zaonhe) - 上海吳語拼音輸入方案
+  - **36** [edward-martyr/rime-yahwe_zaonhe](https://github.com/edward-martyr/rime-yahwe_zaonhe) - 吳語協會式上海話輸入法
+  - **29** [ZWolken/rime-wenzhounese](https://github.com/ZWolken/rime-wenzhounese) - 吳語-溫州話輸入方案
+  - **24** [rime/rime-wugniu](https://github.com/rime/rime-wugniu) - 吳語·上海話
+  - **21** [NGLI/rime-wugniu_soutseu](https://github.com/NGLI/rime-wugniu_soutseu) - 蘇州吳語拼音輸入方案
+  - **20** [saeziae/rime_nguphing](https://github.com/saeziae/rime_nguphing) - 標準吳語 Standard Wu (Standard Shanghainese)
+  - **16** [shinzoqchiuq/rime-shanghainese](https://github.com/shinzoqchiuq/rime-shanghainese) - 非吳拼上海話輸入方案
+  - **8** [rime/rime-soutzoe](https://github.com/rime/rime-soutzoe) - 蘇州吳語
+  - **4** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) - 寧波話輸入方案（變體方案）
+  - **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) - 清末寧波話輸入方案
+  - **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
+  - **1** [NGLI/rime-wugniu_kashin](https://github.com/NGLI/rime-wugniu_kashin) - 嘉興（五縣兩區）吳語拼音輸入方案
+  - **1** [ionkaon/rime-gninpou-saonphin](https://github.com/ionkaon/rime-gninpou-saonphin) - 寧波話雙拼輸入方案
+  - **1** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) - 樂清話拼音輸入法
 - 徽語 Hui
 - 贛語 Gan
 - 湘語 Xiang
-    - **4** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
+  - **4** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
 - 閩北語 Northern Min
 - 閩南語 Southern Min (Hokkien)
-    - **119** [kahaani/dieghv](https://github.com/kahaani/dieghv) - 潮语拼音输入法
-    - **58** [a-thok/rime-hokkien](https://github.com/a-thok/rime-hokkien) - 閩南語輸入方案
-    - **58** [whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi) - 萌台語注音輸入法
-    - **27** [YuRen-tw/rime-taigi-tps](https://github.com/YuRen-tw/rime-taigi-tps) - Taigi-TPS 台語方音輸入法
-    - **20** [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) - 潮州話輸入方案（Teochew 漢字 + PUJ, Pe̍h-Ūe-Ji）
-    - **11** [Community-Min-Language-Rime](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime) - RIME輸入法：閩南語輸入方案
-    - **7** [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮汕话輸入方案
-    - **5** [unsioer/rime-lomaji](https://github.com/unsioer/rime-lomaji) - Rime閩南語羅馬字輸入方案
-    - **4** [yangwenbo99/rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj) - Type Hokkien (Taiwanese) Han-ji using POJ (Pe̍h-Ōe-Ji, Church Romanisation)
-    - **3** [LimTo/etaiBLG](https://github.com/LimTo/etaiBLG) - 閩南語拼音輸入方案
-    - **0** [i3thuan5/rime-taigi](https://github.com/i3thuan5/rime-taigi) - Rime台語輸入法詞表 (Taiwanese Input Schema for Rime)
+  - **119** [kahaani/dieghv](https://github.com/kahaani/dieghv) - 潮语拼音输入法
+  - **58** [a-thok/rime-hokkien](https://github.com/a-thok/rime-hokkien) - 閩南語輸入方案
+  - **58** [whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi) - 萌台語注音輸入法
+  - **27** [YuRen-tw/rime-taigi-tps](https://github.com/YuRen-tw/rime-taigi-tps) - Taigi-TPS 台語方音輸入法
+  - **20** [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) - 潮州話輸入方案（Teochew 漢字 + PUJ, Pe̍h-Ūe-Ji）
+  - **11** [Community-Min-Language-Rime](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime) - RIME輸入法：閩南語輸入方案
+  - **7** [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮汕话輸入方案
+  - **5** [unsioer/rime-lomaji](https://github.com/unsioer/rime-lomaji) - Rime閩南語羅馬字輸入方案
+  - **4** [yangwenbo99/rime-hokkien-poj](https://github.com/yangwenbo99/rime-hokkien-poj) - Type Hokkien (Taiwanese) Han-ji using POJ (Pe̍h-Ōe-Ji, Church Romanisation)
+  - **3** [LimTo/etaiBLG](https://github.com/LimTo/etaiBLG) - 閩南語拼音輸入方案
+  - **0** [i3thuan5/rime-taigi](https://github.com/i3thuan5/rime-taigi) - Rime台語輸入法詞表 (Taiwanese Input Schema for Rime)
 - 閩東語 Eastern Min
-    - **31** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) - 平話字表 (閩東語‣福州話)
-    - **8** [DDFShanyu/Huk-ciu-ua-Lo-ma-ci](https://github.com/DDFShanyu/Huk-ciu-ua-Lo-ma-ci) - 福州話羅馬字
+  - **31** [only3km/ciklinbekin](https://github.com/only3km/ciklinbekin) - 平話字表 (閩東語‣福州話)
+  - **8** [DDFShanyu/Huk-ciu-ua-Lo-ma-ci](https://github.com/DDFShanyu/Huk-ciu-ua-Lo-ma-ci) - 福州話羅馬字
 - 閩中語 Central Min
 - 莆仙語 Pu-Xian Min
-    - **9** [Yaryou/HinghuaFactory](https://github.com/Yaryou/HinghuaFactory) - 兴化韵莆仙话输入方案
+  - **9** [Yaryou/HinghuaFactory](https://github.com/Yaryou/HinghuaFactory) - 兴化韵莆仙话输入方案
 - 客家話 Hakka
-    - **5** [syndict/hakka](https://github.com/syndict/hakka) - 崇正客語輸入法
-    - **2** [huangjunxin/Rime-Hakka-TaibuShang](https://github.com/huangjunxin/Rime-Hakka-TaibuShang) - Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案
-    - **0** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
+  - **5** [syndict/hakka](https://github.com/syndict/hakka) - 崇正客語輸入法
+  - **2** [huangjunxin/Rime-Hakka-TaibuShang](https://github.com/huangjunxin/Rime-Hakka-TaibuShang) - Rime Hakka (Taibu) Input Schema 大埔客家語拼音輸入方案
+  - **0** [i3thuan5/rime-hakka](https://github.com/i3thuan5/rime-hakka) - 客家輸入法詞表
 - 粵語 Yue (Cantonese)
-    - **650** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
-    - **26** [CanCLID/rime-cantonese-schemes](https://github.com/CanCLID/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
-    - **15** [MrCorn0-0/jyutsp](https://github.com/MrCorn0-0/jyutsp) - 基於rime的粵語雙拼方案
-    - **11** [rime-double-jyutping-extra](https://github.com/gkovacs/rime-double-jyutping-extra) - 粤语双拼输入法 Input method for typing Chinese using Cantonese pronunciations with 2-3 keys per character, based on RIME
-    - **11** [pearapple123/rime-hoisanva](https://github.com/pearapple123/rime-hoisanva) - 台山話拼系輸入法A RIME IME for Taishanese
-    - **7** [CanCLID/Jyutsoeng](https://github.com/CanCLID/Jyutsoeng) - 粵雙
-    - **7** [CanCLID/rime-cantonese-schemes-editor](https://github.com/CanCLID/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
-    - **6** [jyutcitzi/jyutcitzi-RIME](https://github.com/jyutcitzi/jyutcitzi-RIME) - 粵切字 (夫干·天·版)+粵切字 (禾旡·比·版) RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese
-    - **6** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
-    - **6** [tanxpyox/rime-combo-jyutping](https://github.com/tanxpyox/rime-combo-jyutping) - 宮保粵拼：Rime 並擊輸入粵語方案
-    - **5** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 勾漏片藤县白话输入方案
-    - **5** [leimaau/old-Cantonese](https://github.com/leimaau/old-Cantonese) - Rime Old Cantonese Input Scheme | 《分韻撮要》音系及輸入方案
-    - **5** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
-    - **4** [Chingyat/rime-yutlo](https://github.com/Chingyat/rime-yutlo) - Rime 粵語羅馬字輸入方案
-    - **3** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
-    - **2** [CanCLID/rime-cantonese-bpmf](https://github.com/CanCLID/rime-cantonese-bpmf) - 粵語注音輸入法
-    - **2** [Lumen01/rime-jienggong-cantonese](https://github.com/Lumen01/rime-jienggong-cantonese) - RIME 阳江话拼音输入方案 | 粤方言-高阳片
-    - **0** [CanCLID/rime-cantonese-alt-dict](https://github.com/CanCLID/rime-cantonese-alt-dict) - 粵語分歧拼音系統
-    - **0** [baopaau/rime-jyuwtpinq](https://github.com/baopaau/rime-jyuwtpinq) - Rime 粵語輸入方案 通過韻母變寫表示聲調。基於 rime-cantonese 碼表
-    - **0** [redchenjs/rime-jyutgaan](https://github.com/redchenjs/rime-jyutgaan) - Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案
+  - **650** [rime/rime-cantonese](https://github.com/rime/rime-cantonese) - Rime Cantonese input schema | 粵語拼音輸入方案
+  - **26** [CanCLID/rime-cantonese-schemes](https://github.com/CanCLID/rime-cantonese-schemes) - 中州韻粵語拼音輸入法分歧拼音系統補丁 | For users of alternative Cantonese romanisation schemes
+  - **15** [MrCorn0-0/jyutsp](https://github.com/MrCorn0-0/jyutsp) - 基於rime的粵語雙拼方案
+  - **11** [rime-double-jyutping-extra](https://github.com/gkovacs/rime-double-jyutping-extra) - 粤语双拼输入法 Input method for typing Chinese using Cantonese pronunciations with 2-3 keys per character, based on RIME
+  - **11** [pearapple123/rime-hoisanva](https://github.com/pearapple123/rime-hoisanva) - 台山話拼系輸入法A RIME IME for Taishanese
+  - **7** [CanCLID/Jyutsoeng](https://github.com/CanCLID/Jyutsoeng) - 粵雙
+  - **7** [CanCLID/rime-cantonese-schemes-editor](https://github.com/CanCLID/rime-cantonese-schemes-editor) - 粵語分歧拼音系統排版工具
+  - **6** [jyutcitzi/jyutcitzi-RIME](https://github.com/jyutcitzi/jyutcitzi-RIME) - 粵切字 (夫干·天·版)+粵切字 (禾旡·比·版) RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese
+  - **6** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
+  - **6** [tanxpyox/rime-combo-jyutping](https://github.com/tanxpyox/rime-combo-jyutping) - 宮保粵拼：Rime 並擊輸入粵語方案
+  - **5** [cryptogun/gaulau_jyutping](https://github.com/cryptogun/gaulau_jyutping) - 勾漏片藤县白话输入方案
+  - **5** [leimaau/old-Cantonese](https://github.com/leimaau/old-Cantonese) - Rime Old Cantonese Input Scheme | 《分韻撮要》音系及輸入方案
+  - **5** [rime-aca/rime-jyutping-compact](https://github.com/rime-aca/rime-jyutping-compact) - 袖珍粵拼
+  - **4** [Chingyat/rime-yutlo](https://github.com/Chingyat/rime-yutlo) - Rime 粵語羅馬字輸入方案
+  - **3** [LaiJoengzit/hamzau_jyutping](https://github.com/LaiJoengzit/hamzau_jyutping) - 欽州粵拼
+  - **2** [CanCLID/rime-cantonese-bpmf](https://github.com/CanCLID/rime-cantonese-bpmf) - 粵語注音輸入法
+  - **2** [Lumen01/rime-jienggong-cantonese](https://github.com/Lumen01/rime-jienggong-cantonese) - RIME 阳江话拼音输入方案 | 粤方言-高阳片
+  - **0** [CanCLID/rime-cantonese-alt-dict](https://github.com/CanCLID/rime-cantonese-alt-dict) - 粵語分歧拼音系統
+  - **0** [baopaau/rime-jyuwtpinq](https://github.com/baopaau/rime-jyuwtpinq) - Rime 粵語輸入方案 通過韻母變寫表示聲調。基於 rime-cantonese 碼表
+  - **0** [redchenjs/rime-jyutgaan](https://github.com/redchenjs/rime-jyutgaan) - Jyutgaan | 粵語簡拼 | RIME粵語簡拼輸入方案
 - 北部平話 Northern Ping
 - 南部平話 Southern Ping
-    - **6** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
+  - **6** [leimaau/naamning_jyutping](https://github.com/leimaau/naamning_jyutping) - 南寧話輸入方案
 
 ## 非漢語/非漢字
 
@@ -274,6 +274,7 @@ rime 輸入方案和配置列表
 
 - **16742** [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - **3494** [maomiui/rime](https://github.com/maomiui/rime) - Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置
+- **3179** [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) - 白霜拼音，使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。
 - **962** [gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma) - 墨奇音形，支持自然码、小鹤、搜狗、微软双拼,是一个基于字形描述信息、递归拆分，最后取首末双形音托的码表开源的方案，墨奇码的拆分码表已开源，目前已经拆分完成全部的通用规范汉字、常用繁体字，总计支持4万字。
 - **303** [ksqsf/rime-moran](https://github.com/ksqsf/rime-moran) - 自然码及整句辅助方案
 
