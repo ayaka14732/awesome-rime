@@ -163,7 +163,7 @@ rime 輸入方案和配置列表
     - **58** [whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi) - 萌台語注音輸入法
     - **27** [YuRen-tw/rime-taigi-tps](https://github.com/YuRen-tw/rime-taigi-tps) - Taigi-TPS 台語方音輸入法
     - **20** [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) - 潮州話拍字方案，包含漢字、白話字佮潮拼（Teochew Input Schema for Rime, including Chinese character, PUJ and DP）
-    - **20** [hokkien-writing/rime-teochew](https://github.com/hokkien-writing/rime-teochew) - 福建話拍字方案，包含漢字、白話字、台羅佮閩拼（Hokkien Input Schema for Rime, including Chinese character, POJ, TL and BP）
+    - **20** [hokkien-writing/rime-hokkien](https://github.com/hokkien-writing/rime-hokkien) - 福建話拍字方案，包含漢字、白話字、台羅佮閩拼（Hokkien Input Schema for Rime, including Chinese character, POJ, TL and BP）
     - **11** [Community-Min-Language-Rime](https://github.com/Language-Preservation-Community/Community-Min-Language-Rime) - RIME輸入法：閩南語輸入方案
     - **7** [femkerr/dieghe](https://github.com/femkerr/dieghe) - 潮汕话輸入方案
     - **5** [unsioer/rime-lomaji](https://github.com/unsioer/rime-lomaji) - Rime閩南語羅馬字輸入方案
