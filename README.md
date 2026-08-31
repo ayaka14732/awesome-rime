@@ -154,6 +154,8 @@ rime 輸入方案和配置列表
     - **1** [NGLI/rime-wugniu_kashin](https://github.com/NGLI/rime-wugniu_kashin) - 嘉興（五縣兩區）吳語拼音輸入方案
 - 徽語 Hui
 - 贛語 Gan
+    - **2** [Doohaey/GonnyuGeneralIME-Rime-Lancong](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Lancong) - 南昌话 Gan Lancong(Nanchang) Rime input method
+    - **2** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) - 分宜话 Gan Fenni(Fenyi) Rime input method
 - 湘語 Xiang
     - **4** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
 - 閩北語 Northern Min
