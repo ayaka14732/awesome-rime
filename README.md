@@ -158,6 +158,8 @@ rime 輸入方案和配置列表
     - **4** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) - 分宜话 Gan Fenni (Fenyi) Rime input method
     - **3** [Doohaey/GonnyuGeneralIME-Rime-Lancong](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Lancong) - 南昌话 Gan Lancong (Nanchang) Rime input method
     - **1** [Doohaey/GonnyuGeneralIME-Rime-Fungcen](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fungcen) - 丰城话 Gan Fungcen (Fengcheng) Rime input method
+    - **1** [Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng) - 弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method
+    - **1** [Doohaey/GonnyuGeneralIME-Rime-Sinyi](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Sinyi) - 新余话 Gan Sinyi (Xinyu) Rime input method
 - 湘語 Xiang
     - **5** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
 - 閩北語 Northern Min
