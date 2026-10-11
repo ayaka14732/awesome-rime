@@ -100,7 +100,7 @@ rime 輸入方案和配置列表
 - **0** [baopaau/rime-rola-pinyin](https://github.com/baopaau/rime-rola-pinyin) - Rime 輸入方案 不用數字或符號表示聲調，類似國語羅馬字
 - **0** [elxy/meow_mspy](https://github.com/elxy/meow_mspy) - Rime 猫颜双拼输入方案，结合了微软双拼与猫老师 @\_ym 的猫颜文字词库的输入方案，同时支持英文输入与笔划反查。
 - **0** [jakwings/rime-xyz](https://github.com/jakwings/rime-xyz) - J.W的個人rime方案集，包括泥巴拼音（muddy-pinyin）、扩展拼音（pinyin-ext）、特殊字符（symbols）、化学离子式输入、平假名（hiragana）片假名（katakana）
-- **0** [Ivan666jjj/rime-xiaozhuan](https://github.com/Ivan666jjj/rime-xiaozhuan) - 小篆輸入方案：拼音輸入，候選窗以篆形顯示（附篆書字體說明；另有 macOS 原生輸入法版）
+- **0** [Ivan666jjj/rime-xiaozhuan](https://github.com/Ivan666jjj/rime-xiaozhuan) - 小篆輸入方案：拼音輸入，候選窗以篆形顯示（附篆書字體；支援 `rime-install Ivan666jjj/rime-xiaozhuan` 一行安裝；另有 macOS 原生輸入法版）
 
 ## 漢語方言
 
