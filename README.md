@@ -156,6 +156,7 @@ rime 輸入方案和配置列表
     - **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
 - 徽語 Hui
 - 贛語 Gan
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Goungon](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Goungon) - 高安话 Gan Goungon (Gaoan) Rime input method
     - **4** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) - 分宜话 Gan Fenni (Fenyi) Rime input method
     - **4** [Doohaey/GonnyuGeneralIME-Rime-Lancong](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Lancong) - 南昌话 Gan Lancong (Nanchang) Rime input method
     - **1** [Doohaey/GonnyuGeneralIME-Rime-Fungcen](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fungcen) - 丰城话 Gan Fungcen (Fengcheng) Rime input method
