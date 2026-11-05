@@ -151,9 +151,10 @@ rime 輸入方案和配置列表
     - **6** [ionkaon/rime-gninpou-variant](https://github.com/ionkaon/rime-gninpou-variant) - 寧波話輸入方案（變體方案）
     - **2** [NGLI/rime-wugniu_kashin](https://github.com/NGLI/rime-wugniu_kashin) - 嘉興（五縣兩區）吳語拼音輸入方案
     - **2** [ionkaon/rime-gninpou-saonphin](https://github.com/ionkaon/rime-gninpou-saonphin) - 寧波話雙拼輸入方案
-    - **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) - 清末寧波話輸入方案
+    - **2** [ionkaon/rime-old-nyingpo](https://github.com/ionkaon/rime-old-nyingpo) - 晚清寧波話輸入方案
     - **2** [lotem/rime-aoyu](https://github.com/lotem/rime-aoyu) - 樂清話拼音輸入法
     - **2** [pearapple123/rime-iuciou](https://github.com/pearapple123/rime-iuciou) - 用「滬語」拼音的溫州話方案 A RIME IME for Wenzhounese
+    - **1** [shinzoqchiuq/rime-wugniu_gninpou_old](https://github.com/shinzoqchiuq/rime-wugniu_gninpou_old) - 推導的晚清寧波話吳語拼音輸入方案
 - 徽語 Hui
 - 贛語 Gan
     - **5** [Doohaey/GonnyuGeneralIME-Rime-Fenni](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fenni) - 分宜话 Gan Fenni (Fenyi) Rime input method
