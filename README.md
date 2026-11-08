@@ -163,6 +163,11 @@ rime 輸入方案和配置列表
     - **2** [Doohaey/GonnyuGeneralIME-Rime-Sinyi](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Sinyi) - 新余话 Gan Sinyi (Xinyu) Rime input method
     - **2** [Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng) - 弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method
     - **1** [Doohaey/GonnyuGeneralIME-Rime-Goungon](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Goungon) - 高安话 Gan Goungon (Gaoan) Rime input method
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Fungcen-II](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Fungcen-II) - 丰城话 Gan Fungcen (Fengcheng) Rime input method（二式·组合式）
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Goungon-II](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Goungon-II) - 高安话 Gan Goungon (Gaoan) Rime input method（二式·组合式）
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Lancong-II](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Lancong-II) - 南昌话 Gan Lancong (Nanchang) Rime input method（二式·组合式）
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Sinyi-II](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Sinyi-II) - 新余话 Gan Sinyi (Xinyu) Rime input method（二式·组合式）
+    - **0** [Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng-II](https://github.com/Doohaey/GonnyuGeneralIME-Rime-Yikyan-Henfeng-II) - 弋阳－横峰话 Gan Yikyan-Henfeng (Yiyang–Hengfeng) Rime input method（二式·组合式）
 - 湘語 Xiang
     - **6** [AlfredLouis00/rime-Sautungva](https://github.com/AlfredLouis00/rime-Sautungva) - 邵東話輸入方案
 - 閩北語 Northern Min
