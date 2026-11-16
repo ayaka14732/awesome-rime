@@ -64,6 +64,7 @@ rime 輸入方案和配置列表
 - **0** [lanluoxiao/c42](https://github.com/lanluoxiao/c42) - 形音四二顶输入方案
 - **0** [lotem/rime-guhuwubi](https://github.com/lotem/rime-guhuwubi) - 孤狐五筆 Rime 輸入方案
 - **0** [saeziae/saeziae/rime-double-pinyin](https://github.com/saeziae/rime-double-pinyin) 雙拼兩分（智能ABC雙拼） double pinyin LiangFen
+- **0** [chenlin014/rime-siyuan](https://github.com/chenlin014/rime-siyuan) - 思源形義輸入法，又名原碼
 
 ## 音碼
 
